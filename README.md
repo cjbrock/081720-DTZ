@@ -1,4 +1,4 @@
-<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzRjb2cxMjJyODhhOXR0YTNpbjc5bTFtanFzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23D81B60&amp;title=online-web-pt-041320%20Cohort%20Calendar" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzZtanJqdnR1OTIwaGhubGhiYmhob21lOThrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23AD1457&amp;title=onl01-seng-ft-081720%20Cohort%20Calendar" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Your Cohort Lead: 
 First Last - first.last@flatironschool.com - [Booking Link](https://oncehub.com)
@@ -8,9 +8,8 @@ First Last - first.last@flatironschool.com - [Booking Link](https://oncehub.com)
 
 ## Helpful Links 
 
-1. [How to Join Learn Slack Workspace](https://help.learn.co/en/articles/492943-how-to-join-slack)
-2. [First Mile Checklist](#) 
-3. [Zoom link for 1:1's and Study Groups](#)
+1. [First Mile Checklist](#) 
+2. [Zoom link for 1:1's and Study Groups](#)
 
 ## Pairing Week 4
 
