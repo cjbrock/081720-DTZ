@@ -29,7 +29,7 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 1. Monday - Welcome to Learn, Variables and Methods, Booleans, Logic and Conditions (25)
 2. Tuesday - Looping (all), Arrays (all) (38)
-3. Wednesday - iteration (all) (59)
+3. Wednesday - Iteration (all) (59)
 4. Thursday - Hashes (all) (65)
 5. Friday - Data Structures (all) (74)
 
