@@ -27,11 +27,11 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 ### Week 1: Mar 2nd 2020
 #### This week's focus:  Procedural Ruby 
 
-1. Monday - Welcome to Learn, Variables and Methods, Booleans, Logic and Conditions (25)
-2. Tuesday - Looping (all), Arrays (all) (38)
-3. Wednesday - Iteration (all) (59)
-4. Thursday - Hashes (all) (65)
-5. Friday - Data Structures (all) (74)
+1. Monday - Welcome to Flatiron School, Software Engineering, About Your Program, Variables and Methods, Booleans, Logic and Conditions (35)
+2. Tuesday - Looping (all), Arrays (all) (48)
+3. Wednesday - Iteration (all) (69)
+4. Thursday - Hashes (all) (75)
+5. Friday - Data Structures (all) (84)
 
 # Study Group Videos and Code
 
