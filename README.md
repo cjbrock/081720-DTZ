@@ -37,7 +37,7 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-| Orientation |  |  |  |
+| Orientation | [Orientation Video](https://youtu.be/uRd7Uc8jyjs) | [Orientation Quiz](https://forms.gle/EvjuWRGsyNrsPrKT8) |  |
 | Lab Walkthrough - If Statements Lab && Ternary Operators and Statement Modifiers |  |  |  |
 | Live Lecture - Arrays |  |  |  |
 | Lab Walkthrough - My Each, My Collect, My All, My Find labs |  |  |  |
