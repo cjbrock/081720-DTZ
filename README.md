@@ -40,5 +40,5 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 | Orientation | [Orientation Video](https://youtu.be/uRd7Uc8jyjs) | [Orientation Quiz](https://forms.gle/EvjuWRGsyNrsPrKT8) |  |
 | Lab Walkthrough - If Statements Lab && Ternary Operators and Statement Modifiers | [Video](https://youtu.be/6SKBGRV5Uxo) | [If Statements Lab](https://learn.co/tracks/online-software-engineering-ft-first-mile/procedural-ruby/logic-and-conditionals/if-statements-lab) | [Ternary Operators and Statement Modifiers](https://learn.co/tracks/online-software-engineering-ft-first-mile/procedural-ruby/logic-and-conditionals/ternary-operators-and-statement-modifiers) |
 | Live Lecture - Arrays | [Video](https://youtu.be/oK3hPfT4naI) | [Repl.it](https://repl.it/@cjnboston/081720#main.rb) | [Ruby Docs Array Methods](https://ruby-doc.org/core-2.7.0/Array.html#method-i-all-3F) |
-| Lab Walkthrough - My Each, My Collect, My All, My Find labs |  |  |  |
+| Lab Walkthrough - Badges and Schedules, Deli Counter |  | [Badges and Schedules](https://learn.co/tracks/online-software-engineering-ft-first-mile/procedural-ruby/iteration/badges-and-schedules-lab) | [Deli Counter](https://learn.co/tracks/online-software-engineering-ft-first-mile/procedural-ruby/iteration/deli-counter-lab) |
 | Pair Programming Demo + Practice |  |  |  |
