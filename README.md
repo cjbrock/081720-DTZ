@@ -11,6 +11,8 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 1. [First Mile Checklist](https://docs.google.com/document/d/1So7XR7fEPxVAJp-bNqUH-_hMsNe9FYnFqbpGGcSPF58/edit?usp=sharing) 
 2. [Zoom link for 1:1's and Study Groups](https://flatironschool.zoom.us/j/4369506625?pwd=MkVxUUg0dERvU1NVZDV5MzJBMlNodz09)
 
+## Pair Programming
+[Rubber Duck Debugging. How it all began.](https://hwrnmnbsol.livejournal.com/148664.html)
 <!-- ## Pairing Week 4
 
 
