@@ -26,7 +26,34 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 # Weekly Assignments
 
-### Week 1: Mar 2nd 2020
+### Week 2: August 24, 2020
+#### This week's focus: Object Oriented Programming
+#### Study Group Videos and Code 
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+| Live Lecture Intro To OO Ruby |  |  |  |
+| Live Lecture - Object Initialization & Object Properties |  |  |  |
+| Live Lecture - Object Self & Class Variables |  |  |  |
+| Open Office Hours |  |  |  |
+
+#### By the end of this week, you should be able to:
+
+- Define a class
+- Create an instance(object) from a class
+- Define an initialize method and know the lifecycle of an object
+- Create reader and writer methods
+- Create instance methods and instance variables
+- Create class methods and class variables
+- Understand what self is in a class method vs an instance method
+
+1. Monday - Intro to Object Orientation, Classes and Instances, Instance Methods (90)
+2. Tuesday - Object Properties (97)
+3. Wednesday - Object Lifecycle, Object’s Self (104)
+4. Thursday - Class Variables and Methods, Object Models (112)
+5. Friday - OO Tic Tac Toe, Object Labs (117)
+
+
+### Week 1: August 17, 2020
 #### This week's focus:  Procedural Ruby 
 
 1. Monday - Welcome to Flatiron School, Software Engineering, About Your Program, Variables and Methods, Booleans, Logic and Conditions (35)
@@ -35,7 +62,7 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 4. Thursday - Hashes (all) (75)
 5. Friday - Data Structures (all) (84)
 
-# Study Group Videos and Code
+##### Study Group Videos and Code
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
