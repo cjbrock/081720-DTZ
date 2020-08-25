@@ -31,7 +31,7 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 #### Study Group Videos and Code 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-| Live Lecture Intro To OO Ruby |  |  |  |
+| Live Lecture Intro To OO Ruby | [Video](https://youtu.be/fLJZo2zlNzQ) | [Code](https://github.com/cjbrock/intro-to-oo-ruby-081720) |  |
 | Live Lecture - Object Initialization & Object Properties |  |  |  |
 | Live Lecture - Object Self & Class Variables |  |  |  |
 | Open Office Hours |  |  |  |
