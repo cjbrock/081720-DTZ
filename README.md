@@ -58,12 +58,12 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
-| *Week 2* |  |  |  |
+| **Week 2** |  |  |  |
 | Live Lecture Intro To OO Ruby | [Video](https://youtu.be/fLJZo2zlNzQ) | [Code](https://github.com/cjbrock/intro-to-oo-ruby-081720) |  |
 | Live Lecture - Object Initialization & Object Properties |  |  |  |
 | Live Lecture - Object Self & Class Variables |  |  |  |
 | Open Office Hours |  |  |  |
-| *Week 1* |  |  |  |
+| **Week 1** |  |  |  |
 | Orientation | [Orientation Video](https://youtu.be/uRd7Uc8jyjs) | [Orientation Quiz](https://forms.gle/EvjuWRGsyNrsPrKT8) |  |
 | Lab Walkthrough - If Statements Lab && Ternary Operators and Statement Modifiers | [Video](https://youtu.be/6SKBGRV5Uxo) | [If Statements Lab](https://learn.co/tracks/online-software-engineering-ft-first-mile/procedural-ruby/logic-and-conditionals/if-statements-lab) | [Ternary Operators and Statement Modifiers](https://learn.co/tracks/online-software-engineering-ft-first-mile/procedural-ruby/logic-and-conditionals/ternary-operators-and-statement-modifiers) |
 | Live Lecture - Arrays | [Video](https://youtu.be/oK3hPfT4naI) | [Repl.it](https://repl.it/@cjnboston/081720#main.rb) | [Ruby Docs Array Methods](https://ruby-doc.org/core-2.7.0/Array.html#method-i-all-3F) |
