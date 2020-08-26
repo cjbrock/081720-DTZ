@@ -54,7 +54,9 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 4. Thursday - Hashes (all) (75)
 5. Friday - Data Structures (all) (84)
 
-##### Study Group Videos and Code
+#### Study Group Videos and Code
+
+[Additional Video Resources](https://instruction.learn.co/)
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
