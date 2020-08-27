@@ -63,7 +63,7 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 | **Week 2** |  |  |  |
 | Live Lecture Intro To OO Ruby | [Video](https://youtu.be/fLJZo2zlNzQ) | [Code](https://github.com/cjbrock/intro-to-oo-ruby-081720) |  |
 | Live Lecture - Object Initialization & Object Properties | [Video](https://youtu.be/deWsWcv4M2c) | [Code](https://github.com/cjbrock/object-initialization-properties-081720) | [Slides](https://docs.google.com/presentation/d/1N-1jr-N0p0yU2P8kIk9XzgH7UQakKAc2Mt4lRDA_BQQ/edit?usp=sharing) |
-| Live Lecture - Object Self & Class Variables |  | [Code](https://github.com/cjbrock/object-self-081720) | [Slides](https://docs.google.com/presentation/d/1zwL3X1wgrWkbqDbNzJ88qZKZngZ9Q_OQpSOo9v_Okww/edit?usp=sharing) |
+| Live Lecture - Object Self & Class Variables | [Video](https://flatironschool.zoom.us/rec/share/x9wqDerZ_FJOAdKWtUrGC7AaANvFeaa80yRI__cMzE9jZ9xBL_4QlCsOGA9TSDuA) | [Code](https://github.com/cjbrock/object-self-081720) | [Slides](https://docs.google.com/presentation/d/1zwL3X1wgrWkbqDbNzJ88qZKZngZ9Q_OQpSOo9v_Okww/edit?usp=sharing) |
 | Open Office Hours |  |  |  |
 | **Week 1** |  |  |  |
 | Orientation | [Orientation Video](https://youtu.be/uRd7Uc8jyjs) | [Orientation Quiz](https://forms.gle/EvjuWRGsyNrsPrKT8) |  |
