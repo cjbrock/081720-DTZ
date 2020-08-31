@@ -26,6 +26,23 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 # Weekly Assignments
 
+### Week 3: August 31, 2020
+#### This week's focus: Object Relationships
+
+- Object Oriented Ruby: Object Relationships
+- Object Oriented Ruby: Object Architecture
+- Object Oriented Ruby: Metaprogramming
+- Object Oriented Ruby: Scraping
+- Object Oriented Ruby: Video Review of OO Ruby
+- Object Oriented Ruby: Final Projects - Complete through Student Scraper
+- BONUS:  Object Oriented Ruby: Final Projects - TTT w AI
+
+1. Day 1 - Object relationships (OO My Pets) (125)
+2. Day 2 - Object relationships (Finish), Object Architecture (135)
+3. Day 3 - Metaprogramming, Scraping, Getting Data From Remote Sources (151)
+4. Day 4 - Music library CLI (152)
+5. Day 5 - Student Scraper (153)
+
 ### Week 2: August 24, 2020
 #### This week's focus: Object Oriented Programming
 #### By the end of this week, you should be able to:
@@ -60,6 +77,11 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+| **Week 3** |  |  |  |
+| Live Lecture - Object Relationships |  |  |  |
+| Live Lecture - Accessing Data From Remote Resources (APIs) |  |  |  |
+| Live Discussion - Build a CLI Application w Scraper or API |  |  |  |
+| Project Prep - CLI Data Gem Portfolio Project |  |  |  |
 | **Week 2** |  |  |  |
 | Live Lecture Intro To OO Ruby | [Video](https://youtu.be/fLJZo2zlNzQ) | [Code](https://github.com/cjbrock/intro-to-oo-ruby-081720) |  |
 | Live Lecture - Object Initialization & Object Properties | [Video](https://youtu.be/deWsWcv4M2c) | [Code](https://github.com/cjbrock/object-initialization-properties-081720) | [Slides](https://docs.google.com/presentation/d/1N-1jr-N0p0yU2P8kIk9XzgH7UQakKAc2Mt4lRDA_BQQ/edit?usp=sharing) |
