@@ -1,7 +1,7 @@
 <iframe src="https://calendar.google.com/calendar/b/1/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FNew_York&amp;src=ZmxhdGlyb25zY2hvb2wuY29tXzZtanJqdnR1OTIwaGhubGhiYmhob21lOThrQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&amp;color=%23AD1457&amp;title=onl01-seng-ft-081720%20Cohort%20Calendar" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 ## Your Cohort Lead: 
-Corinna Brock Moore - corinna@flatironschool.com - [First Mile Pod Meeting Booking Link](https://go.oncehub.com/CorinnaFirstMilePodMeeting)
+Corinna Brock Moore - corinna@flatironschool.com
 
 ## Your Educational Coach: 
 Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https://andrewdellarocca.youcanbook.me/)
