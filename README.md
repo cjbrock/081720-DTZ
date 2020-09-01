@@ -16,9 +16,14 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 ## Pairing Week 3
 
+### Suggested lab: [Music Library CLI](https://learn.co/tracks/online-software-engineering-structured/object-oriented-ruby/section-17-final-projects/music-library-cli)
+
+You do not *have* to pair on the suggested lab - it's just sufficiently complicated enough to be beneficial when two people work on it together! You're also not limited to only working on this lab. Feel free to pair on multiple things throughout the week!
+
+
 | Pair 1       | Pair 2       | Pair 3 |
 | ------------- |:-------------:| ---------- |
-| Andrew Sidwell | Zackary Cammack | Matt Trimner |
+| Andrew Sidwell | Zackary Cammack |
 | Adam Beatty | Tyler Miller |
 | Alma Flores | Taylor Allen |
 | Amy Newland | Tabatha Slatton |
@@ -33,6 +38,7 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 | Jonathan Cohen | Max Zander |
 | Julie Garcia | Matthew Crnich |
 | Kenneth Colon | Matthew McCarthy |
+| Alex Contreras | Matt Trimner |
 
 ## Any questions or issues please DM me. 
 
