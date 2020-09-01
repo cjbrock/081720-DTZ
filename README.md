@@ -11,16 +11,28 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 1. [First Mile Checklist](https://docs.google.com/document/d/1So7XR7fEPxVAJp-bNqUH-_hMsNe9FYnFqbpGGcSPF58/edit?usp=sharing) 
 2. [Zoom link for 1:1's and Study Groups](https://flatironschool.zoom.us/j/4369506625?pwd=MkVxUUg0dERvU1NVZDV5MzJBMlNodz09)
 
-## Pair Programming
+# Pair Programming
 [Rubber Duck Debugging. How it all began.](https://hwrnmnbsol.livejournal.com/148664.html)
-<!-- ## Pairing Week 4
 
+## Pairing Week 3
 
 | Pair 1       | Pair 2       | Pair 3 |
 | ------------- |:-------------:| ---------- |
-| First Last   | First Last    | First Last |
-| First Last   | First Last    |
-| First Last   | First Last    | -->
+| Andrew Sidwell | Zackary Cammack | Matt Trimner |
+| Adam Beatty | Tyler Miller |
+| Alma Flores | Taylor Allen |
+| Amy Newland | Tabatha Slatton |
+| Andre King | Sophia White |
+| Blen Wondimagegn | Seth Mariscotes |
+| Briana Oniru | Sascha Kala |
+| Bryce Ancheta | Richard Kurwitz |
+| Eli Cusic | Nicholas van Zuiden-Rylander |
+| Ellen Park | Muazzam Nashat |
+| John Glennan | Molly Moogan |
+| Jonathan McKnight | Mobin Kakar |
+| Jonathan Cohen | Max Zander |
+| Julie Garcia | Matthew Crnich |
+| Kenneth Colon | Matthew McCarthy |
 
 ## Any questions or issues please DM me. 
 
