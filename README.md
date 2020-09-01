@@ -21,8 +21,8 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 You do not *have* to pair on the suggested lab - it's just sufficiently complicated enough to be beneficial when two people work on it together! You're also not limited to only working on this lab. Feel free to pair on multiple things throughout the week!
 
 
-| Pair 1       | Pair 2       | Pair 3 |
-| ------------- |:-------------:| ---------- |
+| Pair 1       | Pair 2       | 
+| ------------- |:-------------:|
 | Andrew Sidwell | Zackary Cammack |
 | Adam Beatty | Tyler Miller |
 | Alma Flores | Taylor Allen |
