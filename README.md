@@ -96,8 +96,9 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 | **Week 3** |  |  |  |
-| Live Lecture - Object Relationships |  |  |  |
-| Live Lecture - Accessing Data From Remote Resources (APIs) |  |  |  |
+| Live Lecture - Object Relationships | [Video](https://youtu.be/b2sPkJ_L-KI) | [Code](https://github.com/cjbrock/object-relationships-081720) |  |
+| Office Hours - Tuesday 9/1/20 | [Video](https://youtu.be/eoEZEqOhwxU) | [Code](https://github.com/cjbrock/ruby-objects-has-many-lab-onl01-seng-ft-081720) | |
+| Live Lecture - Accessing Data From Remote Resources (APIs) | [Video](https://youtu.be/EyrUQAO96z4) | [Code](https://github.com/cjbrock/accessing-data-remote-sources-081720) |  |
 | Live Discussion - Build a CLI Application w Scraper or API |  |  |  |
 | Project Prep - CLI Data Gem Portfolio Project |  |  |  |
 | **Week 2** |  |  |  |
