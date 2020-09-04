@@ -100,7 +100,8 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 | Office Hours - Tuesday 9/1/20 - Has Many Objects Lab | [Video](https://youtu.be/eoEZEqOhwxU) | [Code](https://github.com/cjbrock/ruby-objects-has-many-lab-onl01-seng-ft-081720) | |
 | Live Lecture - Accessing Data From Remote Resources (APIs) | [Video](https://youtu.be/EyrUQAO96z4) | [Code](https://github.com/cjbrock/accessing-data-remote-sources-081720) |  |
 | Office Hours - Wednesday 9/2/20 - Collaborating Objects Lab | [Video](https://youtu.be/I50kEn4WNwU) | [Code](https://github.com/cjbrock/collaborating-objects-081720) | |
-| Live Discussion - Build a CLI Application w Scraper or API |  |  |  |
+| Live Discussion - Build a CLI Application with API | [Video](https://youtu.be/CuYa0x3uRHo) | [Code](https://github.com/cjbrock/star-wars-api-081720) |  |
+| Office Hours - Thursday 9/3/20 - Finish Collaborating Objects and discuss API project | [Video](https://youtu.be/bXECQJTKuVY) | | |
 | Project Prep - CLI Data Gem Portfolio Project |  |  |  |
 | **Week 2** |  |  |  |
 | Live Lecture Intro To OO Ruby | [Video](https://youtu.be/fLJZo2zlNzQ) | [Code](https://github.com/cjbrock/intro-to-oo-ruby-081720) |  |
