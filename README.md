@@ -102,7 +102,8 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 | Office Hours - Wednesday 9/2/20 - Collaborating Objects Lab | [Video](https://youtu.be/I50kEn4WNwU) | [Code](https://github.com/cjbrock/collaborating-objects-081720) | |
 | Live Discussion - Build a CLI Application with API | [Video](https://youtu.be/CuYa0x3uRHo) | [Code](https://github.com/cjbrock/star-wars-api-081720) |  |
 | Office Hours - Thursday 9/3/20 - Finish Collaborating Objects and discuss API project | [Video](https://youtu.be/bXECQJTKuVY) | | |
-| Project Prep - CLI Data Gem Portfolio Project |  |  |  |
+| Project Prep - CLI Data Gem Portfolio Project and Scraping | [Video](https://youtu.be/-rpTxgP5VmI) | [Code]() |  |
+| Office Hours - Friday 9/4/20 - Second part of Scraping lecture | [Video](https://youtu.be/ctuFAakoBAI) |  |  |
 | **Week 2** |  |  |  |
 | Live Lecture Intro To OO Ruby | [Video](https://youtu.be/fLJZo2zlNzQ) | [Code](https://github.com/cjbrock/intro-to-oo-ruby-081720) |  |
 | Live Lecture - Object Initialization & Object Properties | [Video](https://youtu.be/deWsWcv4M2c) | [Code](https://github.com/cjbrock/object-initialization-properties-081720) | [Slides](https://docs.google.com/presentation/d/1N-1jr-N0p0yU2P8kIk9XzgH7UQakKAc2Mt4lRDA_BQQ/edit?usp=sharing) |
