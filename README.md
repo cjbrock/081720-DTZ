@@ -14,7 +14,7 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 # Pair Programming
 [Rubber Duck Debugging. How it all began.](https://hwrnmnbsol.livejournal.com/148664.html)
 
-## Pairing Week 3
+<!-- ## Pairing Week 3
 
 ### Suggested lab: [Music Library CLI](https://learn.co/tracks/online-software-engineering-structured/object-oriented-ruby/section-17-final-projects/music-library-cli)
 
@@ -38,11 +38,20 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 | Jonathan Cohen | Max Zander |
 | Julie Garcia | Matthew Crnich |
 | Kenneth Colon | Matthew McCarthy |
-| Alex Contreras | Matt Trimner |
+| Alex Contreras | Matt Trimner | -->
 
 ## Any questions or issues please DM me. 
 
 # Weekly Assignments
+
+### Week 4: September 7, 2020
+#### This week's focus: CLI Data Gem Project
+
+1. Object Oriented Ruby: Final Projects - CLI Data Gem Project
+2. Write a Blog Post about the app
+3. Record Your Cli Portfolio Project Walkthrough (2 min showing what it does)
+4. Share that video with your cohort (optional)
+5. Submit project on Learn by end of day Sunday 09/13/2020
 
 ### Week 3: August 31, 2020
 #### This week's focus: Object Relationships
@@ -95,6 +104,8 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+| **Week 4** |  |  |  |
+| How To Start Your CLI Project and Commit it to Github | [Video]() | [Code](https://github.com/cjbrock/cli-project-081720) | |
 | **Week 3** |  |  |  |
 | Live Lecture - Object Relationships | [Video](https://youtu.be/b2sPkJ_L-KI) | [Code](https://github.com/cjbrock/object-relationships-081720) |  |
 | Office Hours - Tuesday 9/1/20 - Has Many Objects Lab | [Video](https://youtu.be/eoEZEqOhwxU) | [Code](https://github.com/cjbrock/ruby-objects-has-many-lab-onl01-seng-ft-081720) | |
