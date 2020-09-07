@@ -105,7 +105,7 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 | **Week 4** |  |  |  |
-| How To Start Your CLI Project and Commit it to Github | [Video]() | [Code](https://github.com/cjbrock/cli-project-081720) | |
+| How To Start Your CLI Project and Commit it to Github | [Video](https://youtu.be/ix0G54gxS58) | [Code](https://github.com/cjbrock/cli-project-081720) | |
 | **Week 3** |  |  |  |
 | Live Lecture - Object Relationships | [Video](https://youtu.be/b2sPkJ_L-KI) | [Code](https://github.com/cjbrock/object-relationships-081720) |  |
 | Office Hours - Tuesday 9/1/20 - Has Many Objects Lab | [Video](https://youtu.be/eoEZEqOhwxU) | [Code](https://github.com/cjbrock/ruby-objects-has-many-lab-onl01-seng-ft-081720) | |
