@@ -44,6 +44,20 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 
 # Weekly Assignments
 
+### Week 5: September 14, 2020
+#### This week's focus: SQL & ORMs | CLI Project Reviews
+
+- SQL: Topic Introduction
+- SQL: Getting Started
+- SQL: Table Relations
+- ORMs and ActiveRecord: ORMs
+
+1. Day 1 - SQL: Topic Introduction, SQL: Getting Started (10 lessons)
+2. Day 2 - SQL: Table Relations (9 lessons)
+3. Day 3 - ORMs and ActiveRecord: ORMs (Mapping Database Rows to Objects Lab) (5 lessons)
+4. Day 4 - ORMs and ActiveRecord: ORMs (ORMS lab: Bringing it all together) (5 lessons)
+5. Day 5 - ORMS and ActiveRecord: ORMs (finish) (6 lessons)
+
 ### Week 4: September 7, 2020
 #### This week's focus: CLI Data Gem Project
 
@@ -104,6 +118,10 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+| **Week 5** |  |  |  |
+| Live Lecture - Intro to SQL |  |  | [SQLite Browser](https://sqlitebrowser.org/) |
+| Live Pairing - SQL Queries Bootcamp |  |  |  |
+| Live Lecture - Build an ORM from Scratch |  |  |  |
 | **Week 4** |  |  |  |
 | How To Start Your CLI Project and Commit it to Github | [Video](https://youtu.be/ix0G54gxS58) | [Code](https://github.com/cjbrock/cli-project-081720) | |
 | **Week 3** |  |  |  |
