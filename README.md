@@ -52,11 +52,11 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 - SQL: Table Relations
 - ORMs and ActiveRecord: ORMs
 
-1. Day 1 - SQL: Topic Introduction, SQL: Getting Started (10 lessons)
-2. Day 2 - SQL: Table Relations (9 lessons)
-3. Day 3 - ORMs and ActiveRecord: ORMs (Mapping Database Rows to Objects Lab) (5 lessons)
-4. Day 4 - ORMs and ActiveRecord: ORMs (ORMS lab: Bringing it all together) (5 lessons)
-5. Day 5 - ORMS and ActiveRecord: ORMs (finish) (6 lessons)
+1. Monday - SQL: Topic Introduction, SQL: Getting Started (10 lessons)
+2. Tuesday - SQL: Table Relations (9 lessons)
+3. Wednesday - ORMs and ActiveRecord: ORMs (Mapping Database Rows to Objects Lab) (5 lessons)
+4. Thursday - ORMs and ActiveRecord: ORMs (ORMS lab: Bringing it all together) (5 lessons)
+5. Friday - ORMS and ActiveRecord: ORMs (finish) (6 lessons)
 
 ### Week 4: September 7, 2020
 #### This week's focus: CLI Data Gem Project
@@ -78,11 +78,11 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 - Object Oriented Ruby: Final Projects - Complete through Student Scraper
 - BONUS:  Object Oriented Ruby: Final Projects - TTT w AI
 
-1. Day 1 - Object relationships (OO My Pets) (125)
-2. Day 2 - Object relationships (Finish), Object Architecture (135)
-3. Day 3 - Metaprogramming, Scraping, Getting Data From Remote Sources (151)
-4. Day 4 - Music library CLI (152)
-5. Day 5 - Student Scraper (153)
+1. Monday - Object relationships (OO My Pets) (125)
+2. Tuesday - Object relationships (Finish), Object Architecture (135)
+3. Wednesday - Metaprogramming, Scraping, Getting Data From Remote Sources (151)
+4. Thursday - Music library CLI (152)
+5. Friday - Student Scraper (153)
 
 ### Week 2: August 24, 2020
 #### This week's focus: Object Oriented Programming
