@@ -119,7 +119,7 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 | **Week 5** |  |  |  |
-| Live Lecture - Intro to SQL |  |  | [SQLite Browser](https://sqlitebrowser.org/) |
+| Live Lecture - Intro to SQL | [Video](https://youtu.be/i9dXqCK3ym0) | [Code](https://github.com/cjbrock/intro-to-sql-081720) | [SQLite Browser](https://sqlitebrowser.org/) |
 | Live Pairing - SQL Queries Bootcamp |  |  |  |
 | Live Lecture - Build an ORM from Scratch |  |  |  |
 | **Week 4** |  |  |  |
