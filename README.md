@@ -121,7 +121,7 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 | **Week 5** |  |  |  |
 | Live Lecture - Intro to SQL | [Video](https://youtu.be/i9dXqCK3ym0) | [Code](https://github.com/cjbrock/intro-to-sql-081720) | [SQLite Browser](https://sqlitebrowser.org/) |
 | Live Pairing - SQL Queries Bootcamp | [Video](https://youtu.be/kCtzXLhvOTE) | [Code](https://github.com/cjbrock/sql-query-bootcamp-081720) |  |
-| Live Lecture - Build an ORM from Scratch |  |  |  |
+| Live Lecture - Build an ORM from Scratch | [Video](https://youtu.be/aBxCBX6AYsI) | [Code](https://github.com/cjbrock/create-your-orm-from-scratch-081720) |  |
 | **Week 4** |  |  |  |
 | How To Start Your CLI Project and Commit it to Github | [Video](https://youtu.be/ix0G54gxS58) | [Code](https://github.com/cjbrock/cli-project-081720) | |
 | **Week 3** |  |  |  |
