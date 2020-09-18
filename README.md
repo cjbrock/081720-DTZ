@@ -44,6 +44,23 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 
 # Weekly Assignments
 
+### Week 6: September 21, 2020
+#### This week's focus: ActiveRecord Associations & Sinatra Basics
+
+By the end of this week, you should be able to:
+
+- Select data using ActiveRecord's querying methods
+- Create a has_many / belongs_to relationship using ActiveRecord
+- Start a Sinatra server using shotgun
+- Define a Sinatra route and visit it in the browser
+
+1. Monday - ORMs and ActiveRecord: ActiveRecord (Mechanics of Migration) (4 lessons)
+2. Tuesday - ORMs and ActiveRecord: ActiveRecord (Finish) (4 lessons)
+3. Wednesday - ORMs and ActiveRecord: Associations (ActiveRecord Associations Lab II) (3 lessons)
+4. Thursday - ORMs and ActiveRecord: Associations (Finish) (4 lessons)
+5. Friday - Sinatra: Sinatra Basics (7 lessons)
+6. BONUS - HTML and CSS (optional)
+
 ### Week 5: September 14, 2020
 #### This week's focus: SQL & ORMs | CLI Project Reviews
 
@@ -118,6 +135,11 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+| **Week 6** |  |  |  |
+| Live Lecture - Intro to ActiveRecord |  |  |  |
+| Live Lecture - ActiveRecord & Associations |  |  |  |
+| Live Lecture - Sinatra Basics |  |  |  |
+| Project Demos CLI |  |  |  |
 | **Week 5** |  |  |  |
 | Live Lecture - Intro to SQL | [Video](https://youtu.be/i9dXqCK3ym0) | [Code](https://github.com/cjbrock/intro-to-sql-081720) | [SQLite Browser](https://sqlitebrowser.org/) |
 | Live Pairing - SQL Queries Bootcamp | [Video](https://youtu.be/kCtzXLhvOTE) | [Code](https://github.com/cjbrock/sql-query-bootcamp-081720) |  |
