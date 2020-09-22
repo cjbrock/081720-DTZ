@@ -136,7 +136,7 @@ By the end of this week, you should be able to:
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 | **Week 6** |  |  |  |
-| Live Lecture - Intro to ActiveRecord |  |  |  |
+| Live Lecture - Intro to ActiveRecord | [Video](https://youtu.be/BahIp02zbgo) | [Code](https://github.com/cjbrock/intro-to-activerecord-081720) |  |
 | Live Lecture - ActiveRecord & Associations |  |  |  |
 | Live Lecture - Sinatra Basics |  |  |  |
 | Project Demos CLI |  |  |  |
