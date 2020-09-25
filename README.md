@@ -138,8 +138,7 @@ By the end of this week, you should be able to:
 | **Week 6** |  |  |  |
 | Live Lecture - Intro to ActiveRecord | [Video](https://youtu.be/BahIp02zbgo) | [Code](https://github.com/cjbrock/intro-to-activerecord-081720) |  |
 | Live Lecture - ActiveRecord & Associations | [Video](https://youtu.be/zS0Y7WzFTLw) | [Code](https://github.com/cjbrock/activerecord-associations-081720) |  |
-| Live Lecture - Sinatra Basics |  |  |  |
-| Project Demos CLI |  |  |  |
+| Live Lecture - Sinatra Basics | [Video](https://youtu.be/4bpt3mQEK8o) | [Code](https://github.com/cjbrock/sinatra-basics-081720) |  |
 | **Week 5** |  |  |  |
 | Live Lecture - Intro to SQL | [Video](https://youtu.be/i9dXqCK3ym0) | [Code](https://github.com/cjbrock/intro-to-sql-081720) | [SQLite Browser](https://sqlitebrowser.org/) |
 | Live Pairing - SQL Queries Bootcamp | [Video](https://youtu.be/kCtzXLhvOTE) | [Code](https://github.com/cjbrock/sql-query-bootcamp-081720) |  |
