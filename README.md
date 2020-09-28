@@ -44,6 +44,24 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 
 # Weekly Assignments
 
+### Week 7: September 28. 2020
+#### This week's focus: Sinatra Forms & Sessions
+
+By the end of this week, you should be able to:
+- Build a basic form and a corresponding route to accept data from the form
+- Define Sinatra routes using RESTful conventions
+- Implement basic CRUD actions in Sinatra using ActiveRecord
+- Add log in/sign up/log out functionality to a Sinatra app
+- Use bcrypt to store passwords securely in the db and authenticate them upon login
+- Create a Sinatra application that utilizes a Join table
+- Use multiple controllers in a Sinatra application
+
+1. Monday - Sinatra: MVC And Forms, Forms (Passing Data between Views and Controllers) (12 lessons)
+2. Tuesday - Sinatra: Forms (finish), Sessions (13 lessons)
+3. Wednesday - Sinatra: ActiveRecord (Secure Password Lab) (7 lessons)
+4. Thursday - Sinatra: ActiveRecord (Finish) (8 lessons)
+5. Friday - Sinatra: Project Mode (Fwitter) (1 lessons)
+
 ### Week 6: September 21, 2020
 #### This week's focus: ActiveRecord Associations & Sinatra Basics
 
@@ -132,9 +150,19 @@ By the end of this week, you should be able to:
 #### Study Group Videos and Code
 
 [Additional Video Resources](https://instruction.learn.co/)
+<!--
+Day 1: [Sinatra Project Examples](http://sinatrarb.com/wild.html)
+Day 2: [Sinatra Documentation](http://sinatrarb.com/documentation.html)
+Day 3: [Sinatra Project Resources](https://docs.google.com/document/d/1MN8Lsbv9xp5vqeogHRxL_miVwp7HwZ4LZ4kW9nPrMqk/edit?usp=sharing)
+Day 4: [ActiveRecord Validations](https://guides.rubyonrails.org/active_record_validations.html#uniqueness)   -->
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+| **Week 7** |  |  |  |
+| Live Lecture - Sinatra REST, MVC, and Forms |  |  |  |
+| Live Lecture - Sinatra CRUD |  |  |  |
+| Live Lecture - User Authentication in Sinatra |  |  |  |
+| Sinatra Project Prep |  |  |  |
 | **Week 6** |  |  |  |
 | Live Lecture - Intro to ActiveRecord | [Video](https://youtu.be/BahIp02zbgo) | [Code](https://github.com/cjbrock/intro-to-activerecord-081720) |  |
 | Live Lecture - ActiveRecord & Associations | [Video](https://youtu.be/zS0Y7WzFTLw) | [Code](https://github.com/cjbrock/activerecord-associations-081720) |  |
