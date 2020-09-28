@@ -8,11 +8,19 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 ## Helpful Links 
 
-1. [First Mile Checklist](https://docs.google.com/document/d/1So7XR7fEPxVAJp-bNqUH-_hMsNe9FYnFqbpGGcSPF58/edit?usp=sharing) 
-2. [Zoom link for 1:1's and Study Groups](https://flatironschool.zoom.us/j/4369506625?pwd=MkVxUUg0dERvU1NVZDV5MzJBMlNodz09)
+1. [Zoom link for Pods, Study Groups, and 1:1's ](https://flatironschool.zoom.us/j/4369506625?pwd=MkVxUUg0dERvU1NVZDV5MzJBMlNodz09)
 
-# Pair Programming
+# Pod Info
 [Rubber Duck Debugging. How it all began.](https://hwrnmnbsol.livejournal.com/148664.html)
+### Current Repos for Projects
+[Tuesday 1:30pm](https://github.com/cjbrock/tues-130pm-sinatra)
+[Tuesday 2:30pm](https://github.com/cjbrock/tues-230pm-sinatra)
+[Wednesday 1:00pm](https://github.com/cjbrock/wed-1pm-sinatra)
+[Wednesday Drinks - Wednesday 3:00pm](https://github.com/cjbrock/wed-3pm-sinatra)
+[Thursday 9:00am](https://github.com/cjbrock/thurs-9am-sinatra)
+[Thursday 1:00pm]()
+[Thursday 3:00pm]()
+[Friday 10:00am](https://github.com/cjbrock/fri-10am-sinatra)  
 
 <!-- ## Pairing Week 3
 
@@ -162,11 +170,11 @@ Day 4: [ActiveRecord Validations](https://guides.rubyonrails.org/active_record_v
 | Live Lecture - Sinatra REST, MVC, and Forms |  |  |  |
 | Live Lecture - Sinatra CRUD |  |  |  |
 | Live Lecture - User Authentication in Sinatra |  |  |  |
-| Sinatra Project Prep |  |  |  |
+| Live Lecture - Sinatra Project Prep |  |  |  |
 | **Week 6** |  |  |  |
 | Live Lecture - Intro to ActiveRecord | [Video](https://youtu.be/BahIp02zbgo) | [Code](https://github.com/cjbrock/intro-to-activerecord-081720) |  |
 | Live Lecture - ActiveRecord & Associations | [Video](https://youtu.be/zS0Y7WzFTLw) | [Code](https://github.com/cjbrock/activerecord-associations-081720) |  |
-| Live Lecture - Sinatra Basics | [Video](https://youtu.be/4bpt3mQEK8o) | [Code](https://github.com/cjbrock/sinatra-basics-081720) |  |
+| Live Lecture - Sinatra Basics | [Video](https://youtu.be/4bpt3mQEK8o) | [Code](https://github.com/cjbrock/sinatra-basics-081720) | [Corneal Gem](https://github.com/thebrianemory/corneal) |
 | **Week 5** |  |  |  |
 | Live Lecture - Intro to SQL | [Video](https://youtu.be/i9dXqCK3ym0) | [Code](https://github.com/cjbrock/intro-to-sql-081720) | [SQLite Browser](https://sqlitebrowser.org/) |
 | Live Pairing - SQL Queries Bootcamp | [Video](https://youtu.be/kCtzXLhvOTE) | [Code](https://github.com/cjbrock/sql-query-bootcamp-081720) |  |
