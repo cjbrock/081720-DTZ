@@ -13,7 +13,7 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 # Pod Info
 [Rubber Duck Debugging. How it all began.](https://hwrnmnbsol.livejournal.com/148664.html)
 ### Current Repos for Projects
-[Tuesday 1:30pm](https://github.com/cjbrock/tues-130pm-sinatra)
+[The Paste Squad - Tuesday 1:30pm](https://github.com/cjbrock/tues-130pm-sinatra)
 [Tuesday 2:30pm](https://github.com/cjbrock/tues-230pm-sinatra)
 [Wednesday 1:00pm](https://github.com/cjbrock/wed-1pm-sinatra)
 [Wednesday Drinks - Wednesday 3:00pm](https://github.com/cjbrock/wed-3pm-sinatra)
@@ -169,7 +169,7 @@ Day 4: [ActiveRecord Validations](https://guides.rubyonrails.org/active_record_v
 | **Week 7** |  |  |  |
 | Live Lecture - Sinatra REST, MVC, and Forms | [Video](https://youtu.be/rIfELjA5QOw) | [Code](https://github.com/cjbrock/sinatra-rest-mvc-forms-081720) |  |
 | Live Lecture - Sinatra CRUD | [Video](https://youtu.be/4RWmY-TfGWU) | [Code](https://github.com/cjbrock/sinatra-crud-081720) |  |
-| Live Lecture - User Authentication in Sinatra |  |  |  |
+| Live Lecture - User Authentication in Sinatra | [Video]() | [Code](https://github.com/cjbrock/sinatra-auth-081720) |  |
 | Live Lecture - Sinatra Project Prep |  |  |  |
 | **Week 6** |  |  |  |
 | Live Lecture - Intro to ActiveRecord | [Video](https://youtu.be/BahIp02zbgo) | [Code](https://github.com/cjbrock/intro-to-activerecord-081720) |  |
