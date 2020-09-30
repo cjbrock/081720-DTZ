@@ -169,7 +169,7 @@ Day 4: [ActiveRecord Validations](https://guides.rubyonrails.org/active_record_v
 | **Week 7** |  |  |  |
 | Live Lecture - Sinatra REST, MVC, and Forms | [Video](https://youtu.be/rIfELjA5QOw) | [Code](https://github.com/cjbrock/sinatra-rest-mvc-forms-081720) |  |
 | Live Lecture - Sinatra CRUD | [Video](https://youtu.be/4RWmY-TfGWU) | [Code](https://github.com/cjbrock/sinatra-crud-081720) |  |
-| Live Lecture - User Authentication in Sinatra | [Video]() | [Code](https://github.com/cjbrock/sinatra-auth-081720) |  |
+| Live Lecture - User Authentication in Sinatra | [Video](https://youtu.be/p4CQ7DnTWqI) | [Code](https://github.com/cjbrock/sinatra-auth-081720) |  |
 | Live Lecture - Sinatra Project Prep |  |  |  |
 | **Week 6** |  |  |  |
 | Live Lecture - Intro to ActiveRecord | [Video](https://youtu.be/BahIp02zbgo) | [Code](https://github.com/cjbrock/intro-to-activerecord-081720) |  |
