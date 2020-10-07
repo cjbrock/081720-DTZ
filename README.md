@@ -162,6 +162,8 @@ By the end of this week, you should be able to:
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+| **Week 8** |  |  |  |
+| Project Week - Flash Errors | [Video](https://youtu.be/JoLEeqSram4) | [Code](https://github.com/cjbrock/sinatra-project-prep-081720) |  |
 | **Week 7** |  |  |  |
 | Live Lecture - Sinatra REST, MVC, and Forms | [Video](https://youtu.be/rIfELjA5QOw) | [Code](https://github.com/cjbrock/sinatra-rest-mvc-forms-081720) | [Sinatra Project Examples](http://sinatrarb.com/wild.html) |
 | Live Lecture - Sinatra CRUD | [Video](https://youtu.be/4RWmY-TfGWU) | [Code](https://github.com/cjbrock/sinatra-crud-081720) | [Sinatra Documentation](http://sinatrarb.com/documentation.html) |
