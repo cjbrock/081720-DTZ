@@ -18,8 +18,6 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 [Wednesday 1:00pm](https://github.com/cjbrock/wed-1pm-sinatra)
 [Wednesday Drinks - Wednesday 3:00pm](https://github.com/cjbrock/wed-3pm-sinatra)
 [Thursday 9:00am](https://github.com/cjbrock/thurs-9am-sinatra)
-[Thursday 1:00pm]()
-[Thursday 3:00pm]()
 [Friday 10:00am](https://github.com/cjbrock/fri-10am-sinatra)  
 
 <!-- ## Pairing Week 3
@@ -51,6 +49,30 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 ## Any questions or issues please DM me. 
 
 # Weekly Assignments
+
+### Week 9: May 4, 2020
+#### This week's focus: Intro to Rails
+
+By the end of this week, you should be able to:
+
+- Build a basic Rails application from scratch
+- Build models, views, and controllers in a Rails application
+- Perform CRUD operations on a Rails app
+
+1. Monday - Rails: Introduction to Rails (6 lessons)
+2. Tuesday - Rails: Model Basics, Rails: Intro to REST (6 lessons)
+3. Wednesday - Rails: Intro to ActionView (4 lessons)
+4. Thursday - Rails: CRUD with Rails (Strong Param Basics) (6 lessons)
+5. Friday - Rails: CRUD with Rails (finish) (6 lessons)
+
+### October 4, 2020
+#### This week's focus: Sinatra Portfolio Project
+
+1. Sinatra: Final Projects
+2. Write a Blog Post about the app
+3. Record Your Project Walkthrough (2 min showing what it does)
+4. Share that video with your cohort (optional)
+5. Submit project on Learn by end of day Sun 10/04/20
 
 ### Week 7: September 28. 2020
 #### This week's focus: Sinatra Forms & Sessions
@@ -158,10 +180,13 @@ By the end of this week, you should be able to:
 #### Study Group Videos and Code
 
 [Additional Video Resources](https://instruction.learn.co/)
-<!--Day 4: [ActiveRecord Validations](https://guides.rubyonrails.org/active_record_validations.html#uniqueness)   -->
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+| **Week 9** |  |  |  |
+| Live Lecture - Intro to Rails |  |  |  |
+| Live Lecture - Rails Models and ReSTful Routing |  |  |  |
+| Live Lecture - Rails CRUD |  |  |  |
 | **Week 8** |  |  |  |
 | Project Week - Flash Errors | [Video](https://youtu.be/JoLEeqSram4) | [Code](https://github.com/cjbrock/sinatra-project-prep-081720) |  |
 | Project Week - Environment Variables and .env files | [Video](https://youtu.be/SPeErPVrgIw) | [Code](https://github.com/cjbrock/sinatra-project-prep-081720) |  |
