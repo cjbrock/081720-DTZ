@@ -50,7 +50,7 @@ You do not *have* to pair on the suggested lab - it's just sufficiently complica
 
 # Weekly Assignments
 
-### Week 9: May 4, 2020
+### Week 9: October 12, 2020
 #### This week's focus: Intro to Rails
 
 By the end of this week, you should be able to:
@@ -184,7 +184,7 @@ By the end of this week, you should be able to:
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 | **Week 9** |  |  |  |
-| Live Lecture - Intro to Rails |  |  |  |
+| Live Lecture - Intro to Rails | [Video](https://youtu.be/jhQZRIjDs9c) | [Code](https://github.com/cjbrock/intro-to-rails-081720) |  |
 | Live Lecture - Rails Models and ReSTful Routing |  |  |  |
 | Live Lecture - Rails CRUD |  |  |  |
 | **Week 8** |  |  |  |
