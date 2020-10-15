@@ -185,7 +185,7 @@ By the end of this week, you should be able to:
 | ------------- |:-------------:| ----------- | ------------------- |
 | **Week 9** |  |  |  |
 | Live Lecture - Intro to Rails | [Video](https://youtu.be/jhQZRIjDs9c) | [Code](https://github.com/cjbrock/intro-to-rails-081720) |  |
-| Live Lecture - Rails Models and ReSTful Routing |  |  |  |
+| Live Lecture - Rails Models and ReSTful Routing | [Video](https://youtu.be/PrrRzrG4TfE) | [Code](https://github.com/cjbrock/rails-models-and-restful-routing-081720) |  |
 | Live Lecture - Rails CRUD |  |  |  |
 | **Week 8** |  |  |  |
 | Project Week - Flash Errors | [Video](https://youtu.be/JoLEeqSram4) | [Code](https://github.com/cjbrock/sinatra-project-prep-081720) |  |
