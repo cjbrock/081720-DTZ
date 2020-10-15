@@ -13,6 +13,15 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 # Pod Info
 [Rubber Duck Debugging. How it all began.](https://hwrnmnbsol.livejournal.com/148664.html)
 ### Current Repos for Projects
+#### Rails
+[The Paste Squad - Tuesday 1:30pm](https://github.com/cjbrock/tues-130pm-rails)
+[Tuesday 2:30pm](https://github.com/cjbrock/tues-230pm-rails)
+[Wednesday 1:00pm](https://github.com/cjbrock/wed-1pm-rails)
+[Wednesday Drinks - Wednesday 3:00pm](https://github.com/cjbrock/wed-3pm-rails)
+- Thursday 9:00am
+- Friday 10:00am
+
+#### Sinatra
 [The Paste Squad - Tuesday 1:30pm](https://github.com/cjbrock/tues-130pm-sinatra)
 [Tuesday 2:30pm](https://github.com/cjbrock/tues-230pm-sinatra)
 [Wednesday 1:00pm](https://github.com/cjbrock/wed-1pm-sinatra)
