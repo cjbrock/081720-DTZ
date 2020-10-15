@@ -18,7 +18,8 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 [Tuesday 2:30pm](https://github.com/cjbrock/tues-230pm-rails)
 [Wednesday 1:00pm](https://github.com/cjbrock/wed-1pm-rails)
 [Wednesday Drinks - Wednesday 3:00pm](https://github.com/cjbrock/wed-3pm-rails)
-- Thursday 9:00am
+[Thursday 9:00am](https://github.com/cjbrock/thurs-9am-rails)
+- Thursday 3:00pm
 - Friday 10:00am
 
 #### Sinatra
@@ -195,7 +196,7 @@ By the end of this week, you should be able to:
 | **Week 9** |  |  |  |
 | Live Lecture - Intro to Rails | [Video](https://youtu.be/jhQZRIjDs9c) | [Code](https://github.com/cjbrock/intro-to-rails-081720) |  |
 | Live Lecture - Rails Models and ReSTful Routing | [Video](https://youtu.be/PrrRzrG4TfE) | [Code](https://github.com/cjbrock/rails-models-and-restful-routing-081720) |  |
-| Live Lecture - Rails CRUD |  |  |  |
+| Live Lecture - Rails CRUD | [Video](https://youtu.be/YddbP22n9wM) | [Code](https://youtu.be/YddbP22n9wM) |  |
 | **Week 8** |  |  |  |
 | Project Week - Flash Errors | [Video](https://youtu.be/JoLEeqSram4) | [Code](https://github.com/cjbrock/sinatra-project-prep-081720) |  |
 | Project Week - Environment Variables and .env files | [Video](https://youtu.be/SPeErPVrgIw) | [Code](https://github.com/cjbrock/sinatra-project-prep-081720) |  |
