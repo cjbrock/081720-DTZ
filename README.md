@@ -10,8 +10,9 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 1. [Zoom link for Pods, Study Groups, and 1:1's ](https://flatironschool.zoom.us/j/4369506625?pwd=MkVxUUg0dERvU1NVZDV5MzJBMlNodz09)
 
-# Pod Info
+## Pod Info
 [Rubber Duck Debugging. How it all began.](https://hwrnmnbsol.livejournal.com/148664.html)
+
 ### Current Repos for Projects
 #### Rails
 [The Paste Squad - Tuesday 1:30pm](https://github.com/cjbrock/tues-130pm-rails)
@@ -19,8 +20,8 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 [Wednesday 1:00pm](https://github.com/cjbrock/wed-1pm-rails)
 [Wednesday Drinks - Wednesday 3:00pm](https://github.com/cjbrock/wed-3pm-rails)
 [Thursday 9:00am](https://github.com/cjbrock/thurs-9am-rails)
-- Thursday 3:00pm
-- Friday 10:00am
+[Thursday 3:00pm](https://github.com/cjbrock/thurs-3pm-rails)
+[Friday 10:00am](https://github.com/cjbrock/fri-10am-rails)
 
 #### Sinatra
 [The Paste Squad - Tuesday 1:30pm](https://github.com/cjbrock/tues-130pm-sinatra)
@@ -30,35 +31,24 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 [Thursday 9:00am](https://github.com/cjbrock/thurs-9am-sinatra)
 [Friday 10:00am](https://github.com/cjbrock/fri-10am-sinatra)  
 
-<!-- ## Pairing Week 3
-
-### Suggested lab: [Music Library CLI](https://learn.co/tracks/online-software-engineering-structured/object-oriented-ruby/section-17-final-projects/music-library-cli)
-
-You do not *have* to pair on the suggested lab - it's just sufficiently complicated enough to be beneficial when two people work on it together! You're also not limited to only working on this lab. Feel free to pair on multiple things throughout the week!
-
-
-| Pair 1       | Pair 2       | 
-| ------------- |:-------------:|
-| Andrew Sidwell | Zackary Cammack |
-| Adam Beatty | Tyler Miller |
-| Alma Flores | Taylor Allen |
-| Amy Newland | Tabatha Slatton |
-| Andre King | Sophia White |
-| Blen Wondimagegn | Seth Mariscotes |
-| Briana Oniru | Sascha Kala |
-| Bryce Ancheta | Richard Kurwitz |
-| Eli Cusic | Nicholas van Zuiden-Rylander |
-| Ellen Park | Muazzam Nashat |
-| John Glennan | Molly Moogan |
-| Jonathan McKnight | Mobin Kakar |
-| Jonathan Cohen | Max Zander |
-| Julie Garcia | Matthew Crnich |
-| Kenneth Colon | Matthew McCarthy |
-| Alex Contreras | Matt Trimner | -->
 
 ## Any questions or issues please DM me. 
 
 # Weekly Assignments
+
+### Week 10: October 19, 2020
+#### This week's focus: Rails Validations/Forms, Associations, and Layouts/Partials
+
+By the end of this week, you should be able to:
+- Add validations to your models
+- Define associations between your models
+- Build helpers for your views
+
+1. Monday - Rails: Validations and Forms (Validations With Form_For) (7 Lessons)
+2. Tuesday - Rails: Validations and Forms (Finish), Rails: Associations and Rails (Displaying Associations Data Lab) (8 Lessons)
+3. Wednesday - Rails: Associations and Rails (Finish) (10 Lessons)
+4. Thursday - Rails: Layouts and Partials (6 Lessons)
+5. Friday - Rails: Refactoring with Helpers and Model Methods (5 Lessons)
 
 ### Week 9: October 12, 2020
 #### This week's focus: Intro to Rails
@@ -75,7 +65,7 @@ By the end of this week, you should be able to:
 4. Thursday - Rails: CRUD with Rails (Strong Param Basics) (6 lessons)
 5. Friday - Rails: CRUD with Rails (finish) (6 lessons)
 
-### October 4, 2020
+### Week 8: October 4, 2020
 #### This week's focus: Sinatra Portfolio Project
 
 1. Sinatra: Final Projects
@@ -193,6 +183,10 @@ By the end of this week, you should be able to:
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+| **Week 10** |  |  |  |
+| Live Lecture - Rails Validations |  |  |  |
+| Live Lecture - Rails Associations and Nested Forms |  |  |  |
+| Live Lecture - Refactoring w Layouts, Partials, Helpers |  |  |  |
 | **Week 9** |  |  |  |
 | Live Lecture - Intro to Rails | [Video](https://youtu.be/jhQZRIjDs9c) | [Code](https://github.com/cjbrock/intro-to-rails-081720) |  |
 | Live Lecture - Rails Models and ReSTful Routing | [Video](https://youtu.be/PrrRzrG4TfE) | [Code](https://github.com/cjbrock/rails-models-and-restful-routing-081720) |  |
