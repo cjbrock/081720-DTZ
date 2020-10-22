@@ -185,7 +185,7 @@ By the end of this week, you should be able to:
 | ------------- |:-------------:| ----------- | ------------------- |
 | **Week 10** |  |  |  |
 | Live Lecture - Rails Validations | [Video](https://youtu.be/sHK7gS87uj4) | [Code](https://github.com/cjbrock/rails-validations-081720) |  |
-| Live Lecture - Rails Associations and Nested Forms |  |  |  |
+| Live Lecture - Rails Associations and Nested Forms | [Video](https://youtu.be/v2MmnOHw9hE) | [Code](https://github.com/cjbrock/rails-nested-forms-081720) |  |
 | Live Lecture - Refactoring w Layouts, Partials, Helpers |  |  |  |
 | **Week 9** |  |  |  |
 | Live Lecture - Intro to Rails | [Video](https://youtu.be/jhQZRIjDs9c) | [Code](https://github.com/cjbrock/intro-to-rails-081720) |  |
