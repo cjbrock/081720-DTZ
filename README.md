@@ -184,9 +184,9 @@ By the end of this week, you should be able to:
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 | **Week 10** |  |  |  |
-| Live Lecture - Rails Validations | [Video](https://youtu.be/sHK7gS87uj4) | [Code](https://github.com/cjbrock/rails-validations-081720) |  |
-| Live Lecture - Rails Associations and Nested Forms | [Video](https://youtu.be/v2MmnOHw9hE) | [Code](https://github.com/cjbrock/rails-nested-forms-081720) |  |
-| Live Lecture - Refactoring w Layouts, Partials, Helpers |  |  |  |
+| Live Lecture - Rails Validations | [Video](https://youtu.be/sHK7gS87uj4) | [Code](https://github.com/cjbrock/rails-validations-081720) | [ActiveRecord Validations](https://guides.rubyonrails.org/active_record_validations.html) |
+| Live Lecture - Rails Associations and Nested Forms | [Video](https://youtu.be/v2MmnOHw9hE) | [Code](https://github.com/cjbrock/rails-nested-forms-081720) | [Nested Attributes Class Methods](https://api.rubyonrails.org/classes/ActiveRecord/NestedAttributes/ClassMethods.html) |
+| Live Lecture - Refactoring w Layouts, Partials, Helpers | [Video](https://youtu.be/VLSyEkBxGMA) | [Code](https://github.com/cjbrock/rails-partials-helpers-layouts-081720) |  |
 | **Week 9** |  |  |  |
 | Live Lecture - Intro to Rails | [Video](https://youtu.be/jhQZRIjDs9c) | [Code](https://github.com/cjbrock/intro-to-rails-081720) |  |
 | Live Lecture - Rails Models and ReSTful Routing | [Video](https://youtu.be/PrrRzrG4TfE) | [Code](https://github.com/cjbrock/rails-models-and-restful-routing-081720) |  |
