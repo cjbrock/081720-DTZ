@@ -36,6 +36,22 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 # Weekly Assignments
 
+### Week 11: October 26, 2020
+
+#### This week's focus: Rails Helpers, Authentication, and Advanced Routing
+
+By the end of this week, you should be able to:
+
+- Add Helpers and Model Methods to clean up your code
+- Add authentication and sessions to your rails projects for signing in users
+- Create nested routing as well as namespaced routing to your rails applications
+
+1. Monday - Rails: Routes and Resources (6 Lessons)
+2. Tuesday - Rails: Authentication (Sessions Controller Lab) (5 Lessons)
+3. Wednesday - Rails: Authentication (Video Review: Authentication) (5 Lessons)
+4. Thursday - Rails: Authentication (Authentication And Authorization Recap And Common Gems) (4 Lessons)
+5. Friday - Rails: Authentication (Finish), Popular Gems (2 Lessons)
+
 ### Week 10: October 19, 2020
 #### This week's focus: Rails Validations/Forms, Associations, and Layouts/Partials
 
@@ -183,6 +199,11 @@ By the end of this week, you should be able to:
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+| **Week 11** |  |  |  |
+| Live Lecture - Routing in Rails - Nested Routes |  |  |  |
+| Live Lecture - Authentication in Rails with Devise |  |  |  |
+| Live Lecture - Authentication in Rails - Native |  |  |  |
+| Live Discussion - Rails Portfolio Project Prep |  |  |  |
 | **Week 10** |  |  |  |
 | Live Lecture - Rails Validations | [Video](https://youtu.be/sHK7gS87uj4) | [Code](https://github.com/cjbrock/rails-validations-081720) | [ActiveRecord Validations](https://guides.rubyonrails.org/active_record_validations.html) |
 | Live Lecture - Rails Associations and Nested Forms | [Video](https://youtu.be/v2MmnOHw9hE) | [Code](https://github.com/cjbrock/rails-nested-forms-081720) | [Nested Attributes Class Methods](https://api.rubyonrails.org/classes/ActiveRecord/NestedAttributes/ClassMethods.html) |
