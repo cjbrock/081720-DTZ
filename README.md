@@ -200,9 +200,9 @@ By the end of this week, you should be able to:
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 | **Week 11** |  |  |  |
-| Live Lecture - Routing in Rails - Nested Routes |  |  |  |
-| Live Lecture - Authentication in Rails with Devise |  |  |  |
+| Live Lecture - Routing in Rails - Nested Routes | [Video](https://youtu.be/OEgni72l3uE) | [Code](https://github.com/cjbrock/rails-nested-routes-081720) |  |
 | Live Lecture - Authentication in Rails - Native |  |  |  |
+| Live Lecture - Authentication in Rails with Devise |  |  |  |
 | Live Discussion - Rails Portfolio Project Prep |  |  |  |
 | **Week 10** |  |  |  |
 | Live Lecture - Rails Validations | [Video](https://youtu.be/sHK7gS87uj4) | [Code](https://github.com/cjbrock/rails-validations-081720) | [ActiveRecord Validations](https://guides.rubyonrails.org/active_record_validations.html) |
