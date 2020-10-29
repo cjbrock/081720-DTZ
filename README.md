@@ -201,8 +201,8 @@ By the end of this week, you should be able to:
 | ------------- |:-------------:| ----------- | ------------------- |
 | **Week 11** |  |  |  |
 | Live Lecture - Routing in Rails - Nested Routes | [Video](https://youtu.be/OEgni72l3uE) | [Code](https://github.com/cjbrock/rails-nested-routes-081720) |  |
-| Live Lecture - Authentication in Rails - Native |  |  |  |
-| Live Lecture - Authentication in Rails with Devise |  |  |  |
+| Live Lecture - Authentication in Rails - Native | [Video](https://youtu.be/nX_UIh94CCE) | [Code](https://github.com/cjbrock/rails-auth-native-081720) | [Tutorial](https://levelup.gitconnected.com/simple-authentication-guide-with-ruby-on-rails-16a6255f0be8) |
+| Live Lecture - Authentication in Rails with Devise and OmniAuth | [Video](https://youtu.be/6wuah4DGWo8) | [Code](https://github.com/cjbrock/rails-auth-devise-omniauth-081720) | [Devise Cheat Sheet](https://docs.google.com/document/d/11XRkOvvmlDN6yJ1Ct2j9fxwR6UoNn0peZtaDgHwZq5A/edit#) |
 | Live Discussion - Rails Portfolio Project Prep |  |  |  |
 | **Week 10** |  |  |  |
 | Live Lecture - Rails Validations | [Video](https://youtu.be/sHK7gS87uj4) | [Code](https://github.com/cjbrock/rails-validations-081720) | [ActiveRecord Validations](https://guides.rubyonrails.org/active_record_validations.html) |
