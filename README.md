@@ -36,6 +36,17 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 # Weekly Assignments
 
+### BREAK WEEK November 9-15, 2020
+
+### Week 12: November 2, 2020
+#### This week's focus: Rails Portfolio Project
+
+1. Rails: Final Projects
+2. Write a Blog Post about the app
+3. Record Your Project Walkthrough (2 min showing what it does)
+4. Share that video with your cohort (optional)
+5. Submit project on Learn by end of day Sun 11/08/20 (although we do have break week the next week, so you can use that time to either work on your project OR start Javascript early)
+
 ### Week 11: October 26, 2020
 
 #### This week's focus: Rails Helpers, Authentication, and Advanced Routing
@@ -203,7 +214,9 @@ By the end of this week, you should be able to:
 | Live Lecture - Routing in Rails - Nested Routes | [Video](https://youtu.be/OEgni72l3uE) | [Code](https://github.com/cjbrock/rails-nested-routes-081720) |  |
 | Live Lecture - Authentication in Rails - Native | [Video](https://youtu.be/nX_UIh94CCE) | [Code](https://github.com/cjbrock/rails-auth-native-081720) | [Tutorial](https://levelup.gitconnected.com/simple-authentication-guide-with-ruby-on-rails-16a6255f0be8) |
 | Live Lecture - Authentication in Rails with Devise and OmniAuth | [Video](https://youtu.be/6wuah4DGWo8) | [Code](https://github.com/cjbrock/rails-auth-devise-omniauth-081720) | [Devise Cheat Sheet](https://docs.google.com/document/d/11XRkOvvmlDN6yJ1Ct2j9fxwR6UoNn0peZtaDgHwZq5A/edit#) |
-| Live Discussion - Rails Portfolio Project Prep |  |  |  |
+| Live Discussion - Rails Portfolio Project Prep | [Video](https://youtu.be/DA4-1uRA9Wo) | [Code](https://github.com/cjbrock/rails-project-prep-081720) |  |
+| Lab Walkthrough - Has Many Through In Forms Lab | [Video](https://youtu.be/tNN9-26x5XQ) | [Code](https://github.com/cjbrock/has-many-through-in-forms-walkthrough) | [Lab](https://learn.co/tracks/online-software-engineering-structured/rails/associations-and-rails/has-many-through-in-forms-lab) |
+| Lab Walkthrough - Routing and Nesting Resources Lab | [Video](https://youtu.be/_Q74CnujTIE) | [Code](https://github.com/cjbrock/nested-resources-walkthrough) | [Lab](https://learn.co/tracks/online-software-engineering-structured/rails/routes-and-resources/routing-and-nested-resources-lab) |
 | **Week 10** |  |  |  |
 | Live Lecture - Rails Validations | [Video](https://youtu.be/sHK7gS87uj4) | [Code](https://github.com/cjbrock/rails-validations-081720) | [ActiveRecord Validations](https://guides.rubyonrails.org/active_record_validations.html) |
 | Live Lecture - Rails Associations and Nested Forms | [Video](https://youtu.be/v2MmnOHw9hE) | [Code](https://github.com/cjbrock/rails-nested-forms-081720) | [Nested Attributes Class Methods](https://api.rubyonrails.org/classes/ActiveRecord/NestedAttributes/ClassMethods.html) |
