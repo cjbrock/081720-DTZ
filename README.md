@@ -36,6 +36,21 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 # Weekly Assignments
 
+## Week 13: November 16, 2020
+
+#### This week's focus: Procedural Javascript & Basic Manipulation of DOM
+
+By the end of this week, you should be able to:
+- Understand what JavaScript is used for
+- Write procedural JavaScript with correct syntax
+- Code basic manipulation of the DOM
+
+1. Monday - Defining Front-End Web Programming, JS and Rails - Manipulating the DOM (Changing The DOM With Dev Tools) (6 Lessons)
+2. Tuesday - JS and Rails - Manipulating the DOM (JS Fundamentals: Looping And Iteration Code Along) (7 Lessons)
+3. Wednesday - JS and Rails - Manipulating the DOM (Finish), JS and Rails - Recognizing JavaScript Events (Functions In JavaScript) (7 Lessons)
+4. Thursday - JS and Rails - Recognizing JavaScript Events (JS Fundamentals: Scope Lab (7 Lessons)
+5. Friday - JS and Rails - Recognizing JavaScript Events (Finish) (6 Lessons)
+
 ### BREAK WEEK November 9-15, 2020
 
 ### Week 12: November 2, 2020
@@ -210,6 +225,10 @@ By the end of this week, you should be able to:
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+| **Week 13** |  |  |  |
+| Live Lecture - Intro to DOM and DOM Manipulation |  |  |  |
+| Live Lecture - JavaScript Fundamentals |  |  |  |
+| Live Lecture - JavaScript Events |  |  |  |
 | **Week 11** |  |  |  |
 | Live Lecture - Routing in Rails - Nested Routes | [Video](https://youtu.be/OEgni72l3uE) | [Code](https://github.com/cjbrock/rails-nested-routes-081720) |  |
 | Live Lecture - Authentication in Rails - Native | [Video](https://youtu.be/nX_UIh94CCE) | [Code](https://github.com/cjbrock/rails-auth-native-081720) | [Tutorial](https://levelup.gitconnected.com/simple-authentication-guide-with-ruby-on-rails-16a6255f0be8) |
