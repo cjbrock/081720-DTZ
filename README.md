@@ -227,7 +227,7 @@ By the end of this week, you should be able to:
 | **Week 13** |  |  |  |
 | Live Lecture - Intro to DOM and DOM Manipulation | [Video](https://youtu.be/IlDdzoHO-HU) | [Code](https://github.com/cjbrock/intro-to-js-081720) |  |
 | Live Lecture - JavaScript Fundamentals | [Video](https://youtu.be/rXPrP-bfiJo) | [Code](https://github.com/cjbrock/js-fundamentals-081720) |  |
-| Live Lecture - JavaScript Events | [Video](https://youtu.be/gNUtU6cfSlE) | [Code](https://github.com/cjbrock/js-events-081720) |  |
+| Live Lecture - JavaScript Events | [Video](https://youtu.be/gNUtU6cfSlE) | [Code](https://github.com/cjbrock/js-events-081720) | [Mozilla Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events) |
 | **Week 11** |  |  |  |
 | Live Lecture - Routing in Rails - Nested Routes | [Video](https://youtu.be/OEgni72l3uE) | [Code](https://github.com/cjbrock/rails-nested-routes-081720) |  |
 | Live Lecture - Authentication in Rails - Native | [Video](https://youtu.be/nX_UIh94CCE) | [Code](https://github.com/cjbrock/rails-auth-native-081720) | [Tutorial](https://levelup.gitconnected.com/simple-authentication-guide-with-ruby-on-rails-16a6255f0be8) |
