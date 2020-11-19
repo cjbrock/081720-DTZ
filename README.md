@@ -31,7 +31,7 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 - [Friday 10:00am](https://github.com/cjbrock/fri-10am-sinatra)  
 
 
-# Weekly Assignments
+# Current Assignments
 
 ## Week 13: November 16, 2020
 
@@ -111,6 +111,8 @@ By the end of this week, you should be able to:
 | Live Lecture - Arrays | [Video](https://youtu.be/oK3hPfT4naI) | [Repl.it](https://repl.it/@cjnboston/081720#main.rb) | [Ruby Docs Array Methods](https://ruby-doc.org/core-2.7.0/Array.html#method-i-all-3F) |
 | Lab Walkthrough - Deli Counter and Pry deep dive | [Video](https://youtu.be/dd7MDnzxY2I) | [Deli Counter](https://learn.co/tracks/online-software-engineering-ft-first-mile/procedural-ruby/iteration/deli-counter-lab) | [Iterator Cheat Sheet](https://docs.google.com/document/d/1R6IxVjiW2dLKugG45s34yjZ_EQSRJ3vXf4FRKlIg7KU/edit?usp=sharing) |
 | Pair Programming Demo + Practice | [Video](https://drive.google.com/file/d/1v1Vmn7kT4tabur7FKHJt0NKFxQiPw7vL/view) | [Pair Programming Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfr63QGhW_NDySBnQ-A-pkpPmAJdoJGHddeFf0C5lCKrrp-Cg/viewform) |  |
+
+# Past Assignments
 
 ### BREAK WEEK November 9-15, 2020
 
