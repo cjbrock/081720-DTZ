@@ -31,8 +31,6 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 - [Friday 10:00am](https://github.com/cjbrock/fri-10am-sinatra)  
 
 
-## Any questions or issues please DM me. 
-
 # Weekly Assignments
 
 ## Week 13: November 16, 2020
@@ -218,7 +216,7 @@ By the end of this week, you should be able to:
 4. Thursday - Hashes (all) (75)
 5. Friday - Data Structures (all) (84)
 
-#### Study Group Videos and Code
+# Study Group Videos and Code
 
 [Additional Video Resources](https://instruction.learn.co/)
 
