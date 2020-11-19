@@ -15,21 +15,20 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 ### Current Repos for Projects
 #### Rails
-[The Paste Squad - Tuesday 1:30pm](https://github.com/cjbrock/tues-130pm-rails)
-[Tuesday 2:30pm](https://github.com/cjbrock/tues-230pm-rails)
-[Wednesday 1:00pm](https://github.com/cjbrock/wed-1pm-rails)
-[Wednesday Drinks - Wednesday 3:00pm](https://github.com/cjbrock/wed-3pm-rails)
-[Thursday 9:00am](https://github.com/cjbrock/thurs-9am-rails)
-[Thursday 3:00pm](https://github.com/cjbrock/thurs-3pm-rails)
-[Friday 10:00am](https://github.com/cjbrock/fri-10am-rails)
+- [The Paste Squad - Tuesday 1:30pm](https://github.com/cjbrock/tues-130pm-rails)
+- [Tuesday 2:30pm](https://github.com/cjbrock/tues-230pm-rails)
+- [Wednesday 1:00pm](https://github.com/cjbrock/wed-1pm-rails)
+- [Wednesday Drinks - Wednesday 3:00pm](https://github.com/cjbrock/wed-3pm-rails)
+- [Thursday 9:00am](https://github.com/cjbrock/thurs-9am-rails)
+- [Friday 10:00am](https://github.com/cjbrock/fri-10am-rails)
 
 #### Sinatra
-[The Paste Squad - Tuesday 1:30pm](https://github.com/cjbrock/tues-130pm-sinatra)
-[Tuesday 2:30pm](https://github.com/cjbrock/tues-230pm-sinatra)
-[Wednesday 1:00pm](https://github.com/cjbrock/wed-1pm-sinatra)
-[Wednesday Drinks - Wednesday 3:00pm](https://github.com/cjbrock/wed-3pm-sinatra)
-[Thursday 9:00am](https://github.com/cjbrock/thurs-9am-sinatra)
-[Friday 10:00am](https://github.com/cjbrock/fri-10am-sinatra)  
+- [The Paste Squad - Tuesday 1:30pm](https://github.com/cjbrock/tues-130pm-sinatra)
+- [Tuesday 2:30pm](https://github.com/cjbrock/tues-230pm-sinatra)
+- [Wednesday 1:00pm](https://github.com/cjbrock/wed-1pm-sinatra)
+- [Wednesday Drinks - Wednesday 3:00pm](https://github.com/cjbrock/wed-3pm-sinatra)
+- [Thursday 9:00am](https://github.com/cjbrock/thurs-9am-sinatra)
+- [Friday 10:00am](https://github.com/cjbrock/fri-10am-sinatra)  
 
 
 ## Any questions or issues please DM me. 
@@ -226,9 +225,9 @@ By the end of this week, you should be able to:
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 | **Week 13** |  |  |  |
-| Live Lecture - Intro to DOM and DOM Manipulation |  |  |  |
-| Live Lecture - JavaScript Fundamentals |  |  |  |
-| Live Lecture - JavaScript Events |  |  |  |
+| Live Lecture - Intro to DOM and DOM Manipulation | [Video](https://youtu.be/IlDdzoHO-HU) | [Code](https://github.com/cjbrock/intro-to-js-081720) |  |
+| Live Lecture - JavaScript Fundamentals | [Video](https://youtu.be/rXPrP-bfiJo) | [Code](https://github.com/cjbrock/js-fundamentals-081720) |  |
+| Live Lecture - JavaScript Events | [Video](https://youtu.be/gNUtU6cfSlE) | [Code](https://github.com/cjbrock/js-events-081720) |  |
 | **Week 11** |  |  |  |
 | Live Lecture - Routing in Rails - Nested Routes | [Video](https://youtu.be/OEgni72l3uE) | [Code](https://github.com/cjbrock/rails-nested-routes-081720) |  |
 | Live Lecture - Authentication in Rails - Native | [Video](https://youtu.be/nX_UIh94CCE) | [Code](https://github.com/cjbrock/rails-auth-native-081720) | [Tutorial](https://levelup.gitconnected.com/simple-authentication-guide-with-ruby-on-rails-16a6255f0be8) |
