@@ -48,6 +48,70 @@ By the end of this week, you should be able to:
 4. Thursday - JS and Rails - Recognizing JavaScript Events (JS Fundamentals: Scope Lab (7 Lessons)
 5. Friday - JS and Rails - Recognizing JavaScript Events (Finish) (6 Lessons)
 
+# Study Group Videos and Code
+
+[Additional Video Resources](https://instruction.learn.co/)
+
+| Topic         | Video         | Code/Other | Repl/other resources|
+| ------------- |:-------------:| ----------- | ------------------- |
+| **Week 13** |  |  |  |
+| Live Lecture - Intro to DOM and DOM Manipulation | [Video](https://youtu.be/IlDdzoHO-HU) | [Code](https://github.com/cjbrock/intro-to-js-081720) |  |
+| Live Lecture - JavaScript Fundamentals | [Video](https://youtu.be/rXPrP-bfiJo) | [Code](https://github.com/cjbrock/js-fundamentals-081720) |  |
+| Live Lecture - JavaScript Events | [Video](https://youtu.be/gNUtU6cfSlE) | [Code](https://github.com/cjbrock/js-events-081720) | [Mozilla Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events) |
+| **Week 11** |  |  |  |
+| Live Lecture - Routing in Rails - Nested Routes | [Video](https://youtu.be/OEgni72l3uE) | [Code](https://github.com/cjbrock/rails-nested-routes-081720) |  |
+| Live Lecture - Authentication in Rails - Native | [Video](https://youtu.be/nX_UIh94CCE) | [Code](https://github.com/cjbrock/rails-auth-native-081720) | [Tutorial](https://levelup.gitconnected.com/simple-authentication-guide-with-ruby-on-rails-16a6255f0be8) |
+| Live Lecture - Authentication in Rails with Devise and OmniAuth | [Video](https://youtu.be/6wuah4DGWo8) | [Code](https://github.com/cjbrock/rails-auth-devise-omniauth-081720) | [Devise Cheat Sheet](https://docs.google.com/document/d/11XRkOvvmlDN6yJ1Ct2j9fxwR6UoNn0peZtaDgHwZq5A/edit#) |
+| Live Discussion - Rails Portfolio Project Prep | [Video](https://youtu.be/DA4-1uRA9Wo) | [Code](https://github.com/cjbrock/rails-project-prep-081720) |  |
+| Lab Walkthrough - Has Many Through In Forms Lab | [Video](https://youtu.be/tNN9-26x5XQ) | [Code](https://github.com/cjbrock/has-many-through-in-forms-walkthrough) | [Lab](https://learn.co/tracks/online-software-engineering-structured/rails/associations-and-rails/has-many-through-in-forms-lab) |
+| Lab Walkthrough - Routing and Nesting Resources Lab | [Video](https://youtu.be/_Q74CnujTIE) | [Code](https://github.com/cjbrock/nested-resources-walkthrough) | [Lab](https://learn.co/tracks/online-software-engineering-structured/rails/routes-and-resources/routing-and-nested-resources-lab) |
+| **Week 10** |  |  |  |
+| Live Lecture - Rails Validations | [Video](https://youtu.be/sHK7gS87uj4) | [Code](https://github.com/cjbrock/rails-validations-081720) | [ActiveRecord Validations](https://guides.rubyonrails.org/active_record_validations.html) |
+| Live Lecture - Rails Associations and Nested Forms | [Video](https://youtu.be/v2MmnOHw9hE) | [Code](https://github.com/cjbrock/rails-nested-forms-081720) | [Nested Attributes Class Methods](https://api.rubyonrails.org/classes/ActiveRecord/NestedAttributes/ClassMethods.html) |
+| Live Lecture - Refactoring w Layouts, Partials, Helpers | [Video](https://youtu.be/VLSyEkBxGMA) | [Code](https://github.com/cjbrock/rails-partials-helpers-layouts-081720) | [For a good STRFtime](https://www.foragoodstrftime.com/) |
+| **Week 9** |  |  |  |
+| Live Lecture - Intro to Rails | [Video](https://youtu.be/jhQZRIjDs9c) | [Code](https://github.com/cjbrock/intro-to-rails-081720) |  |
+| Live Lecture - Rails Models and ReSTful Routing | [Video](https://youtu.be/PrrRzrG4TfE) | [Code](https://github.com/cjbrock/rails-models-and-restful-routing-081720) |  |
+| Live Lecture - Rails CRUD | [Video](https://youtu.be/YddbP22n9wM) | [Code](https://github.com/cjbrock/rails-crud-081720) |  |
+| **Week 8** |  |  |  |
+| Project Week - Flash Errors | [Video](https://youtu.be/JoLEeqSram4) | [Code](https://github.com/cjbrock/sinatra-project-prep-081720) |  |
+| Project Week - Environment Variables and .env files | [Video](https://youtu.be/SPeErPVrgIw) | [Code](https://github.com/cjbrock/sinatra-project-prep-081720) |  |
+| **Week 7** |  |  |  |
+| Live Lecture - Sinatra REST, MVC, and Forms | [Video](https://youtu.be/rIfELjA5QOw) | [Code](https://github.com/cjbrock/sinatra-rest-mvc-forms-081720) | [Sinatra Project Examples](http://sinatrarb.com/wild.html) |
+| Live Lecture - Sinatra CRUD | [Video](https://youtu.be/4RWmY-TfGWU) | [Code](https://github.com/cjbrock/sinatra-crud-081720) | [Sinatra Documentation](http://sinatrarb.com/documentation.html) |
+| Live Lecture - User Authentication in Sinatra | [Video](https://youtu.be/p4CQ7DnTWqI) | [Code](https://github.com/cjbrock/sinatra-auth-081720) | [Sinatra Project Resources](https://docs.google.com/document/d/1MN8Lsbv9xp5vqeogHRxL_miVwp7HwZ4LZ4kW9nPrMqk/edit?usp=sharing) |
+| Live Lecture - Sinatra Project Prep | [Video](https://youtu.be/t3_jlDbOdTU) | [Code](https://github.com/cjbrock/sinatra-project-prep-081720) | [ActiveRecord Validations](https://guides.rubyonrails.org/active_record_validations.html#uniqueness)  |
+| **Week 6** |  |  |  |
+| Live Lecture - Intro to ActiveRecord | [Video](https://youtu.be/BahIp02zbgo) | [Code](https://github.com/cjbrock/intro-to-activerecord-081720) |  |
+| Live Lecture - ActiveRecord & Associations | [Video](https://youtu.be/zS0Y7WzFTLw) | [Code](https://github.com/cjbrock/activerecord-associations-081720) |  |
+| Live Lecture - Sinatra Basics | [Video](https://youtu.be/4bpt3mQEK8o) | [Code](https://github.com/cjbrock/sinatra-basics-081720) | [Corneal Gem](https://github.com/thebrianemory/corneal) |
+| **Week 5** |  |  |  |
+| Live Lecture - Intro to SQL | [Video](https://youtu.be/i9dXqCK3ym0) | [Code](https://github.com/cjbrock/intro-to-sql-081720) | [SQLite Browser](https://sqlitebrowser.org/) |
+| Live Pairing - SQL Queries Bootcamp | [Video](https://youtu.be/kCtzXLhvOTE) | [Code](https://github.com/cjbrock/sql-query-bootcamp-081720) |  |
+| Live Lecture - Build an ORM from Scratch | [Video](https://youtu.be/aBxCBX6AYsI) | [Code](https://github.com/cjbrock/create-your-orm-from-scratch-081720) |  |
+| **Week 4** |  |  |  |
+| How To Start Your CLI Project and Commit it to Github | [Video](https://youtu.be/ix0G54gxS58) | [Code](https://github.com/cjbrock/cli-project-081720) | |
+| **Week 3** |  |  |  |
+| Live Lecture - Object Relationships | [Video](https://youtu.be/b2sPkJ_L-KI) | [Code](https://github.com/cjbrock/object-relationships-081720) |  |
+| Office Hours - Tuesday 9/1/20 - Has Many Objects Lab | [Video](https://youtu.be/eoEZEqOhwxU) | [Code](https://github.com/cjbrock/ruby-objects-has-many-lab-onl01-seng-ft-081720) | |
+| Live Lecture - Accessing Data From Remote Resources (APIs) | [Video](https://youtu.be/EyrUQAO96z4) | [Code](https://github.com/cjbrock/accessing-data-remote-sources-081720) |  |
+| Office Hours - Wednesday 9/2/20 - Collaborating Objects Lab | [Video](https://youtu.be/I50kEn4WNwU) | [Code](https://github.com/cjbrock/collaborating-objects-081720) | |
+| Live Discussion - Build a CLI Application with API | [Video](https://youtu.be/CuYa0x3uRHo) | [Code](https://github.com/cjbrock/star-wars-api-081720) |  |
+| Office Hours - Thursday 9/3/20 - Finish Collaborating Objects and discuss API project | [Video](https://youtu.be/bXECQJTKuVY) | | |
+| Project Prep - CLI Data Gem Portfolio Project and Scraping | [Video](https://youtu.be/-rpTxgP5VmI) | [Code](https://github.com/cjbrock/star-wars-scraper-081720) |  |
+| Office Hours - Friday 9/4/20 - Second part of Scraping lecture | [Video](https://youtu.be/ctuFAakoBAI) |  |  |
+| **Week 2** |  |  |  |
+| Live Lecture Intro To OO Ruby | [Video](https://youtu.be/fLJZo2zlNzQ) | [Code](https://github.com/cjbrock/intro-to-oo-ruby-081720) |  |
+| Live Lecture - Object Initialization & Object Properties | [Video](https://youtu.be/deWsWcv4M2c) | [Code](https://github.com/cjbrock/object-initialization-properties-081720) | [Slides](https://docs.google.com/presentation/d/1N-1jr-N0p0yU2P8kIk9XzgH7UQakKAc2Mt4lRDA_BQQ/edit?usp=sharing) |
+| Live Lecture - Object Self & Class Variables | [Video](https://flatironschool.zoom.us/rec/share/x9wqDerZ_FJOAdKWtUrGC7AaANvFeaa80yRI__cMzE9jZ9xBL_4QlCsOGA9TSDuA) | [Code](https://github.com/cjbrock/object-self-081720) | [Slides](https://docs.google.com/presentation/d/1zwL3X1wgrWkbqDbNzJ88qZKZngZ9Q_OQpSOo9v_Okww/edit?usp=sharing) |
+| Open Office Hours - OO TicTacToe | [Video](https://flatironschool.zoom.us/rec/share/vsNEd7fV-31JZYWO-XjHSIkTToDMaaa8gHIX-_QOnU5tsZaVSdWTHYuClKqUMBa7) | [Code](https://github.com/cjbrock/oo-tictactoe-081720) | [Video from the 3/2/20 cohort through the turn method](https://www.youtube.com/watch?v=mngGd1UkoS0&feature=youtu.be) |
+| **Week 1** |  |  |  |
+| Orientation | [Orientation Video](https://youtu.be/uRd7Uc8jyjs) | [Orientation Quiz](https://forms.gle/EvjuWRGsyNrsPrKT8) |  |
+| Lab Walkthrough - If Statements Lab && Ternary Operators and Statement Modifiers | [Video](https://youtu.be/6SKBGRV5Uxo) | [If Statements Lab](https://learn.co/tracks/online-software-engineering-ft-first-mile/procedural-ruby/logic-and-conditionals/if-statements-lab) | [Ternary Operators and Statement Modifiers](https://learn.co/tracks/online-software-engineering-ft-first-mile/procedural-ruby/logic-and-conditionals/ternary-operators-and-statement-modifiers) |
+| Live Lecture - Arrays | [Video](https://youtu.be/oK3hPfT4naI) | [Repl.it](https://repl.it/@cjnboston/081720#main.rb) | [Ruby Docs Array Methods](https://ruby-doc.org/core-2.7.0/Array.html#method-i-all-3F) |
+| Lab Walkthrough - Deli Counter and Pry deep dive | [Video](https://youtu.be/dd7MDnzxY2I) | [Deli Counter](https://learn.co/tracks/online-software-engineering-ft-first-mile/procedural-ruby/iteration/deli-counter-lab) | [Iterator Cheat Sheet](https://docs.google.com/document/d/1R6IxVjiW2dLKugG45s34yjZ_EQSRJ3vXf4FRKlIg7KU/edit?usp=sharing) |
+| Pair Programming Demo + Practice | [Video](https://drive.google.com/file/d/1v1Vmn7kT4tabur7FKHJt0NKFxQiPw7vL/view) | [Pair Programming Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfr63QGhW_NDySBnQ-A-pkpPmAJdoJGHddeFf0C5lCKrrp-Cg/viewform) |  |
+
 ### BREAK WEEK November 9-15, 2020
 
 ### Week 12: November 2, 2020
@@ -216,66 +280,3 @@ By the end of this week, you should be able to:
 4. Thursday - Hashes (all) (75)
 5. Friday - Data Structures (all) (84)
 
-# Study Group Videos and Code
-
-[Additional Video Resources](https://instruction.learn.co/)
-
-| Topic         | Video         | Code/Other | Repl/other resources|
-| ------------- |:-------------:| ----------- | ------------------- |
-| **Week 13** |  |  |  |
-| Live Lecture - Intro to DOM and DOM Manipulation | [Video](https://youtu.be/IlDdzoHO-HU) | [Code](https://github.com/cjbrock/intro-to-js-081720) |  |
-| Live Lecture - JavaScript Fundamentals | [Video](https://youtu.be/rXPrP-bfiJo) | [Code](https://github.com/cjbrock/js-fundamentals-081720) |  |
-| Live Lecture - JavaScript Events | [Video](https://youtu.be/gNUtU6cfSlE) | [Code](https://github.com/cjbrock/js-events-081720) | [Mozilla Event Reference](https://developer.mozilla.org/en-US/docs/Web/Events) |
-| **Week 11** |  |  |  |
-| Live Lecture - Routing in Rails - Nested Routes | [Video](https://youtu.be/OEgni72l3uE) | [Code](https://github.com/cjbrock/rails-nested-routes-081720) |  |
-| Live Lecture - Authentication in Rails - Native | [Video](https://youtu.be/nX_UIh94CCE) | [Code](https://github.com/cjbrock/rails-auth-native-081720) | [Tutorial](https://levelup.gitconnected.com/simple-authentication-guide-with-ruby-on-rails-16a6255f0be8) |
-| Live Lecture - Authentication in Rails with Devise and OmniAuth | [Video](https://youtu.be/6wuah4DGWo8) | [Code](https://github.com/cjbrock/rails-auth-devise-omniauth-081720) | [Devise Cheat Sheet](https://docs.google.com/document/d/11XRkOvvmlDN6yJ1Ct2j9fxwR6UoNn0peZtaDgHwZq5A/edit#) |
-| Live Discussion - Rails Portfolio Project Prep | [Video](https://youtu.be/DA4-1uRA9Wo) | [Code](https://github.com/cjbrock/rails-project-prep-081720) |  |
-| Lab Walkthrough - Has Many Through In Forms Lab | [Video](https://youtu.be/tNN9-26x5XQ) | [Code](https://github.com/cjbrock/has-many-through-in-forms-walkthrough) | [Lab](https://learn.co/tracks/online-software-engineering-structured/rails/associations-and-rails/has-many-through-in-forms-lab) |
-| Lab Walkthrough - Routing and Nesting Resources Lab | [Video](https://youtu.be/_Q74CnujTIE) | [Code](https://github.com/cjbrock/nested-resources-walkthrough) | [Lab](https://learn.co/tracks/online-software-engineering-structured/rails/routes-and-resources/routing-and-nested-resources-lab) |
-| **Week 10** |  |  |  |
-| Live Lecture - Rails Validations | [Video](https://youtu.be/sHK7gS87uj4) | [Code](https://github.com/cjbrock/rails-validations-081720) | [ActiveRecord Validations](https://guides.rubyonrails.org/active_record_validations.html) |
-| Live Lecture - Rails Associations and Nested Forms | [Video](https://youtu.be/v2MmnOHw9hE) | [Code](https://github.com/cjbrock/rails-nested-forms-081720) | [Nested Attributes Class Methods](https://api.rubyonrails.org/classes/ActiveRecord/NestedAttributes/ClassMethods.html) |
-| Live Lecture - Refactoring w Layouts, Partials, Helpers | [Video](https://youtu.be/VLSyEkBxGMA) | [Code](https://github.com/cjbrock/rails-partials-helpers-layouts-081720) | [For a good STRFtime](https://www.foragoodstrftime.com/) |
-| **Week 9** |  |  |  |
-| Live Lecture - Intro to Rails | [Video](https://youtu.be/jhQZRIjDs9c) | [Code](https://github.com/cjbrock/intro-to-rails-081720) |  |
-| Live Lecture - Rails Models and ReSTful Routing | [Video](https://youtu.be/PrrRzrG4TfE) | [Code](https://github.com/cjbrock/rails-models-and-restful-routing-081720) |  |
-| Live Lecture - Rails CRUD | [Video](https://youtu.be/YddbP22n9wM) | [Code](https://github.com/cjbrock/rails-crud-081720) |  |
-| **Week 8** |  |  |  |
-| Project Week - Flash Errors | [Video](https://youtu.be/JoLEeqSram4) | [Code](https://github.com/cjbrock/sinatra-project-prep-081720) |  |
-| Project Week - Environment Variables and .env files | [Video](https://youtu.be/SPeErPVrgIw) | [Code](https://github.com/cjbrock/sinatra-project-prep-081720) |  |
-| **Week 7** |  |  |  |
-| Live Lecture - Sinatra REST, MVC, and Forms | [Video](https://youtu.be/rIfELjA5QOw) | [Code](https://github.com/cjbrock/sinatra-rest-mvc-forms-081720) | [Sinatra Project Examples](http://sinatrarb.com/wild.html) |
-| Live Lecture - Sinatra CRUD | [Video](https://youtu.be/4RWmY-TfGWU) | [Code](https://github.com/cjbrock/sinatra-crud-081720) | [Sinatra Documentation](http://sinatrarb.com/documentation.html) |
-| Live Lecture - User Authentication in Sinatra | [Video](https://youtu.be/p4CQ7DnTWqI) | [Code](https://github.com/cjbrock/sinatra-auth-081720) | [Sinatra Project Resources](https://docs.google.com/document/d/1MN8Lsbv9xp5vqeogHRxL_miVwp7HwZ4LZ4kW9nPrMqk/edit?usp=sharing) |
-| Live Lecture - Sinatra Project Prep | [Video](https://youtu.be/t3_jlDbOdTU) | [Code](https://github.com/cjbrock/sinatra-project-prep-081720) | [ActiveRecord Validations](https://guides.rubyonrails.org/active_record_validations.html#uniqueness)  |
-| **Week 6** |  |  |  |
-| Live Lecture - Intro to ActiveRecord | [Video](https://youtu.be/BahIp02zbgo) | [Code](https://github.com/cjbrock/intro-to-activerecord-081720) |  |
-| Live Lecture - ActiveRecord & Associations | [Video](https://youtu.be/zS0Y7WzFTLw) | [Code](https://github.com/cjbrock/activerecord-associations-081720) |  |
-| Live Lecture - Sinatra Basics | [Video](https://youtu.be/4bpt3mQEK8o) | [Code](https://github.com/cjbrock/sinatra-basics-081720) | [Corneal Gem](https://github.com/thebrianemory/corneal) |
-| **Week 5** |  |  |  |
-| Live Lecture - Intro to SQL | [Video](https://youtu.be/i9dXqCK3ym0) | [Code](https://github.com/cjbrock/intro-to-sql-081720) | [SQLite Browser](https://sqlitebrowser.org/) |
-| Live Pairing - SQL Queries Bootcamp | [Video](https://youtu.be/kCtzXLhvOTE) | [Code](https://github.com/cjbrock/sql-query-bootcamp-081720) |  |
-| Live Lecture - Build an ORM from Scratch | [Video](https://youtu.be/aBxCBX6AYsI) | [Code](https://github.com/cjbrock/create-your-orm-from-scratch-081720) |  |
-| **Week 4** |  |  |  |
-| How To Start Your CLI Project and Commit it to Github | [Video](https://youtu.be/ix0G54gxS58) | [Code](https://github.com/cjbrock/cli-project-081720) | |
-| **Week 3** |  |  |  |
-| Live Lecture - Object Relationships | [Video](https://youtu.be/b2sPkJ_L-KI) | [Code](https://github.com/cjbrock/object-relationships-081720) |  |
-| Office Hours - Tuesday 9/1/20 - Has Many Objects Lab | [Video](https://youtu.be/eoEZEqOhwxU) | [Code](https://github.com/cjbrock/ruby-objects-has-many-lab-onl01-seng-ft-081720) | |
-| Live Lecture - Accessing Data From Remote Resources (APIs) | [Video](https://youtu.be/EyrUQAO96z4) | [Code](https://github.com/cjbrock/accessing-data-remote-sources-081720) |  |
-| Office Hours - Wednesday 9/2/20 - Collaborating Objects Lab | [Video](https://youtu.be/I50kEn4WNwU) | [Code](https://github.com/cjbrock/collaborating-objects-081720) | |
-| Live Discussion - Build a CLI Application with API | [Video](https://youtu.be/CuYa0x3uRHo) | [Code](https://github.com/cjbrock/star-wars-api-081720) |  |
-| Office Hours - Thursday 9/3/20 - Finish Collaborating Objects and discuss API project | [Video](https://youtu.be/bXECQJTKuVY) | | |
-| Project Prep - CLI Data Gem Portfolio Project and Scraping | [Video](https://youtu.be/-rpTxgP5VmI) | [Code](https://github.com/cjbrock/star-wars-scraper-081720) |  |
-| Office Hours - Friday 9/4/20 - Second part of Scraping lecture | [Video](https://youtu.be/ctuFAakoBAI) |  |  |
-| **Week 2** |  |  |  |
-| Live Lecture Intro To OO Ruby | [Video](https://youtu.be/fLJZo2zlNzQ) | [Code](https://github.com/cjbrock/intro-to-oo-ruby-081720) |  |
-| Live Lecture - Object Initialization & Object Properties | [Video](https://youtu.be/deWsWcv4M2c) | [Code](https://github.com/cjbrock/object-initialization-properties-081720) | [Slides](https://docs.google.com/presentation/d/1N-1jr-N0p0yU2P8kIk9XzgH7UQakKAc2Mt4lRDA_BQQ/edit?usp=sharing) |
-| Live Lecture - Object Self & Class Variables | [Video](https://flatironschool.zoom.us/rec/share/x9wqDerZ_FJOAdKWtUrGC7AaANvFeaa80yRI__cMzE9jZ9xBL_4QlCsOGA9TSDuA) | [Code](https://github.com/cjbrock/object-self-081720) | [Slides](https://docs.google.com/presentation/d/1zwL3X1wgrWkbqDbNzJ88qZKZngZ9Q_OQpSOo9v_Okww/edit?usp=sharing) |
-| Open Office Hours - OO TicTacToe | [Video](https://flatironschool.zoom.us/rec/share/vsNEd7fV-31JZYWO-XjHSIkTToDMaaa8gHIX-_QOnU5tsZaVSdWTHYuClKqUMBa7) | [Code](https://github.com/cjbrock/oo-tictactoe-081720) | [Video from the 3/2/20 cohort through the turn method](https://www.youtube.com/watch?v=mngGd1UkoS0&feature=youtu.be) |
-| **Week 1** |  |  |  |
-| Orientation | [Orientation Video](https://youtu.be/uRd7Uc8jyjs) | [Orientation Quiz](https://forms.gle/EvjuWRGsyNrsPrKT8) |  |
-| Lab Walkthrough - If Statements Lab && Ternary Operators and Statement Modifiers | [Video](https://youtu.be/6SKBGRV5Uxo) | [If Statements Lab](https://learn.co/tracks/online-software-engineering-ft-first-mile/procedural-ruby/logic-and-conditionals/if-statements-lab) | [Ternary Operators and Statement Modifiers](https://learn.co/tracks/online-software-engineering-ft-first-mile/procedural-ruby/logic-and-conditionals/ternary-operators-and-statement-modifiers) |
-| Live Lecture - Arrays | [Video](https://youtu.be/oK3hPfT4naI) | [Repl.it](https://repl.it/@cjnboston/081720#main.rb) | [Ruby Docs Array Methods](https://ruby-doc.org/core-2.7.0/Array.html#method-i-all-3F) |
-| Lab Walkthrough - Deli Counter and Pry deep dive | [Video](https://youtu.be/dd7MDnzxY2I) | [Deli Counter](https://learn.co/tracks/online-software-engineering-ft-first-mile/procedural-ruby/iteration/deli-counter-lab) | [Iterator Cheat Sheet](https://docs.google.com/document/d/1R6IxVjiW2dLKugG45s34yjZ_EQSRJ3vXf4FRKlIg7KU/edit?usp=sharing) |
-| Pair Programming Demo + Practice | [Video](https://drive.google.com/file/d/1v1Vmn7kT4tabur7FKHJt0NKFxQiPw7vL/view) | [Pair Programming Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfr63QGhW_NDySBnQ-A-pkpPmAJdoJGHddeFf0C5lCKrrp-Cg/viewform) |  |
