@@ -9,7 +9,9 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 ## Helpful Links 
 
 1. [Zoom link for Pods, Study Groups, and 1:1's ](https://flatironschool.zoom.us/j/4369506625?pwd=MkVxUUg0dERvU1NVZDV5MzJBMlNodz09)
-2. [If you would like to book a one on one with Corinna](https://go.oncehub.com/corinna1on1)
+2. [If you would like to book a one on one with Corinna - normal weeks](https://go.oncehub.com/corinna1on1)
+3. [If you would like to book a one on one with Corinns - project week](https://go.oncehub.com/CorinnaProjectWeek11)
+4. [Rails Project Review Scheduling](https://go.oncehub.com/StructuredProgramRailsProjectReviews)
 
 ## Pod Info
 [Rubber Duck Debugging. How it all began.](https://hwrnmnbsol.livejournal.com/148664.html)
