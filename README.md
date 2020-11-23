@@ -36,20 +36,22 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 # Current Assignments
 
-## Week 13: November 16, 2020
+## Week 14: November 23, 2020
 
-#### This week's focus: Procedural Javascript & Basic Manipulation of DOM
+#### This week's focus: Rails Api, Fetching Data, Conditionals, Datatypes
 
 By the end of this week, you should be able to:
-- Understand what JavaScript is used for
-- Write procedural JavaScript with correct syntax
-- Code basic manipulation of the DOM
+- Use JavaScript fetch calls to interact with a server
+- Create a rails API for your JavaScript front end
+- Use json to interact with your front end
+- Use conditionals in order to control the flow of your api / fetching.
 
-1. Monday - Defining Front-End Web Programming, JS and Rails - Manipulating the DOM (Changing The DOM With Dev Tools) (6 Lessons)
-2. Tuesday - JS and Rails - Manipulating the DOM (JS Fundamentals: Looping And Iteration Code Along) (7 Lessons)
-3. Wednesday - JS and Rails - Manipulating the DOM (Finish), JS and Rails - Recognizing JavaScript Events (Functions In JavaScript) (7 Lessons)
-4. Thursday - JS and Rails - Recognizing JavaScript Events (JS Fundamentals: Scope Lab (7 Lessons)
-5. Friday - JS and Rails - Recognizing JavaScript Events (Finish) (6 Lessons)
+1. Monday - JS and Rails - Communication with the Server (JS Fundamentals: Objects Lab) (6 Lessons)
+2. Tuesday - JS and Rails - Communication with the Server (Finish) (6 Lessons)
+3. Wednesday - JS and Rails - Putting it all Together, JS and Rails - Rails as an API (Rendering Related Object Data In JSON) (7 Lessons)
+4. Thursday - JS and Rails - Rails as an API (Finish), JS and Rails - Formalizing JS: Data Types, Comparisons, Conditionals (JS Fundamentals: Arithmetic Lab) (7 Lessons)
+5. Friday - JS and Rails - Formalizing JS: Data Types, Comparisons, Conditionals (Finish) (7 Lessons)
+
 
 # Study Group Videos and Code
 
@@ -57,6 +59,10 @@ By the end of this week, you should be able to:
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+| **Week 14** |  |  |  |
+| Live Lecture - Using Fetch |  |  |  |
+| Live Lecture - Building a Rails API |  |  |  |
+| Live Lecture - Putting it all Together (update/destroy; JS Array methods) |  |  |  |
 | **Week 13** |  |  |  |
 | Live Lecture - Intro to DOM and DOM Manipulation | [Video](https://youtu.be/IlDdzoHO-HU) | [Code](https://github.com/cjbrock/intro-to-js-081720) |  |
 | Live Lecture - JavaScript Fundamentals | [Video](https://youtu.be/rXPrP-bfiJo) | [Code](https://github.com/cjbrock/js-fundamentals-081720) |  |
@@ -116,6 +122,21 @@ By the end of this week, you should be able to:
 | Pair Programming Demo + Practice | [Video](https://drive.google.com/file/d/1v1Vmn7kT4tabur7FKHJt0NKFxQiPw7vL/view) | [Pair Programming Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfr63QGhW_NDySBnQ-A-pkpPmAJdoJGHddeFf0C5lCKrrp-Cg/viewform) |  |
 
 # Past Assignments
+
+## Week 13: November 16, 2020
+
+#### This week's focus: Procedural Javascript & Basic Manipulation of DOM
+
+By the end of this week, you should be able to:
+- Understand what JavaScript is used for
+- Write procedural JavaScript with correct syntax
+- Code basic manipulation of the DOM
+
+1. Monday - Defining Front-End Web Programming, JS and Rails - Manipulating the DOM (Changing The DOM With Dev Tools) (6 Lessons)
+2. Tuesday - JS and Rails - Manipulating the DOM (JS Fundamentals: Looping And Iteration Code Along) (7 Lessons)
+3. Wednesday - JS and Rails - Manipulating the DOM (Finish), JS and Rails - Recognizing JavaScript Events (Functions In JavaScript) (7 Lessons)
+4. Thursday - JS and Rails - Recognizing JavaScript Events (JS Fundamentals: Scope Lab (7 Lessons)
+5. Friday - JS and Rails - Recognizing JavaScript Events (Finish) (6 Lessons)
 
 ### BREAK WEEK November 9-15, 2020
 
