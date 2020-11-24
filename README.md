@@ -60,7 +60,7 @@ By the end of this week, you should be able to:
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 | **Week 14** |  |  |  |
-| Live Lecture - Using Fetch |  |  |  |
+| Live Lecture - Using Fetch | [Video](https://youtu.be/zW0LmWduKiM) | [Code](https://github.com/cjbrock/javascript-using-fetch-081720) | [Mozilla Fetch Reference](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) |
 | Live Lecture - Building a Rails API |  |  |  |
 | Live Lecture - Putting it all Together (update/destroy; JS Array methods) |  |  |  |
 | **Week 13** |  |  |  |
