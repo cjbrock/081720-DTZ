@@ -61,7 +61,7 @@ By the end of this week, you should be able to:
 | ------------- |:-------------:| ----------- | ------------------- |
 | **Week 14** |  |  |  |
 | Live Lecture - Using Fetch | [Video](https://youtu.be/zW0LmWduKiM) | [Code](https://github.com/cjbrock/javascript-using-fetch-081720) | [Mozilla Fetch Reference](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) |
-| Live Lecture - Building a Rails API |  |  |  |
+| Live Lecture - Building a Rails API | [Video](https://youtu.be/TSjeTzZGQqY) | [Front End](https://github.com/cjbrock/javascript-crud-front-end-081720) | [Back End](https://github.com/cjbrock/javascript-crud-back-end-081720) |
 | Live Lecture - Putting it all Together (update/destroy; JS Array methods) |  |  |  |
 | **Week 13** |  |  |  |
 | Live Lecture - Intro to DOM and DOM Manipulation | [Video](https://youtu.be/IlDdzoHO-HU) | [Code](https://github.com/cjbrock/intro-to-js-081720) |  |
