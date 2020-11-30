@@ -36,21 +36,20 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 # Current Assignments
 
-## Week 14: November 23, 2020
-
-#### This week's focus: Rails Api, Fetching Data, Conditionals, Datatypes
+## Week 15: November 30, 2020
+#### This week's focus: JavaScript Object Orientation and Project Prep
 
 By the end of this week, you should be able to:
-- Use JavaScript fetch calls to interact with a server
-- Create a rails API for your JavaScript front end
-- Use json to interact with your front end
-- Use conditionals in order to control the flow of your api / fetching.
+- Use ES6 class syntax
+- Create Javascript Models
+- Create Javascript Prototype Functions
+- Have an idea of what to build for your project
 
-1. Monday - JS and Rails - Communication with the Server (JS Fundamentals: Objects Lab) (6 Lessons)
-2. Tuesday - JS and Rails - Communication with the Server (Finish) (6 Lessons)
-3. Wednesday - JS and Rails - Putting it all Together, JS and Rails - Rails as an API (Rendering Related Object Data In JSON) (7 Lessons)
-4. Thursday - JS and Rails - Rails as an API (Finish), JS and Rails - Formalizing JS: Data Types, Comparisons, Conditionals (JS Fundamentals: Arithmetic Lab) (7 Lessons)
-5. Friday - JS and Rails - Formalizing JS: Data Types, Comparisons, Conditionals (Finish) (7 Lessons)
+1. Monday - JS and Rails - ES6 Syntax Sugar (3)
+2. Tuesday - JS and Rails - Advanced Function Usage (16)
+3. Wednesday - JS and Rails - Object Orientation in JavaScript (8)
+4. Thursday - JS and Rails - OO JavaScript: Inheritance (6)
+5. Friday - JS and Rails - OO JavaScript: Prototypal Inheritance (8)
 
 
 # Study Group Videos and Code
@@ -59,6 +58,11 @@ By the end of this week, you should be able to:
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+| **Week 15** |  |  |  |
+| Live Lecture - JS CRUD Update finish |  |  |  |
+| Live Lecture - ES6 Deep Dive (CRUD Finish, Arrow Functions, Variable Declaration, Destructuring, Object Assign) | | | |
+| Live Lecture - Object Oriented JS |  |  |  |
+| Live Lecture - JavaScript Project Prep |  |  |  |
 | **Week 14** |  |  |  |
 | Live Lecture - Using Fetch | [Video](https://youtu.be/zW0LmWduKiM) | [Code](https://github.com/cjbrock/javascript-using-fetch-081720) | [Mozilla Fetch Reference](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) |
 | Live Lecture - Building a Rails API | [Video](https://youtu.be/TSjeTzZGQqY) | [Front End](https://github.com/cjbrock/javascript-crud-front-end-081720) | [Back End](https://github.com/cjbrock/javascript-crud-back-end-081720) |
@@ -123,6 +127,22 @@ By the end of this week, you should be able to:
 | Pair Programming Demo + Practice | [Video](https://drive.google.com/file/d/1v1Vmn7kT4tabur7FKHJt0NKFxQiPw7vL/view) | [Pair Programming Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfr63QGhW_NDySBnQ-A-pkpPmAJdoJGHddeFf0C5lCKrrp-Cg/viewform) |  |
 
 # Past Assignments
+
+## Week 14: November 23, 2020
+
+#### This week's focus: Rails Api, Fetching Data, Conditionals, Datatypes
+
+By the end of this week, you should be able to:
+- Use JavaScript fetch calls to interact with a server
+- Create a rails API for your JavaScript front end
+- Use json to interact with your front end
+- Use conditionals in order to control the flow of your api / fetching.
+
+1. Monday - JS and Rails - Communication with the Server (JS Fundamentals: Objects Lab) (6 Lessons)
+2. Tuesday - JS and Rails - Communication with the Server (Finish) (6 Lessons)
+3. Wednesday - JS and Rails - Putting it all Together, JS and Rails - Rails as an API (Rendering Related Object Data In JSON) (7 Lessons)
+4. Thursday - JS and Rails - Rails as an API (Finish), JS and Rails - Formalizing JS: Data Types, Comparisons, Conditionals (JS Fundamentals: Arithmetic Lab) (7 Lessons)
+5. Friday - JS and Rails - Formalizing JS: Data Types, Comparisons, Conditionals (Finish) (7 Lessons)
 
 ## Week 13: November 16, 2020
 
