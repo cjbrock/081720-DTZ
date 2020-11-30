@@ -45,8 +45,8 @@ By the end of this week, you should be able to:
 - Create Javascript Prototype Functions
 - Have an idea of what to build for your project
 
-1. Monday - JS and Rails - ES6 Syntax Sugar (3)
-2. Tuesday - JS and Rails - Advanced Function Usage (16)
+1. Monday - JS and Rails - ES6 Syntax Sugar, JS and Rails - Advanced Function Usage (JS Advanced Functions: Generalized Map and Reduce Lab) (9)
+2. Tuesday - JS and Rails - Advanced Function Usage (10)
 3. Wednesday - JS and Rails - Object Orientation in JavaScript (8)
 4. Thursday - JS and Rails - OO JavaScript: Inheritance (6)
 5. Friday - JS and Rails - OO JavaScript: Prototypal Inheritance (8)
