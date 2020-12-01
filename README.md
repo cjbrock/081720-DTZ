@@ -59,8 +59,8 @@ By the end of this week, you should be able to:
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
 | **Week 15** |  |  |  |
-| Live Lecture - JS CRUD Update finish |  |  |  |
-| Live Lecture - ES6 Deep Dive (CRUD Finish, Arrow Functions, Variable Declaration, Destructuring, Object Assign) | | | |
+| Live Lecture - JS CRUD Update | [Video](https://youtu.be/24myPtdU-aw) | [Front End](https://github.com/cjbrock/javascript-crud-front-end-081720) | [Back End](https://github.com/cjbrock/javascript-crud-back-end-081720) |
+| Live Lecture - JS CRUD Delete, Error Handling, and bonus like content | [Video](https://youtu.be/cz2wAZrco44) | [Front End](https://github.com/cjbrock/javascript-crud-front-end-081720) | [Back End](https://github.com/cjbrock/javascript-crud-back-end-081720) |
 | Live Lecture - Object Oriented JS |  |  |  |
 | Live Lecture - JavaScript Project Prep |  |  |  |
 | **Week 14** |  |  |  |
