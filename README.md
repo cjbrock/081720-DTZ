@@ -61,8 +61,8 @@ By the end of this week, you should be able to:
 | **Week 15** |  |  |  |
 | Live Lecture - JS CRUD Update | [Video](https://youtu.be/24myPtdU-aw) | [Front End](https://github.com/cjbrock/javascript-crud-front-end-081720) | [Back End](https://github.com/cjbrock/javascript-crud-back-end-081720) |
 | Live Lecture - JS CRUD Delete, Error Handling, and bonus like content | [Video](https://youtu.be/cz2wAZrco44) | [Front End](https://github.com/cjbrock/javascript-crud-front-end-081720) | [Back End](https://github.com/cjbrock/javascript-crud-back-end-081720) |
-| Live Lecture - Object Oriented JS |  |  |  |
-| Live Lecture - JavaScript Project Prep |  |  |  |
+| Live Lecture - Object Oriented JS | [Video](https://youtu.be/gO0PooMnGyw) | [Front End](https://github.com/cjbrock/javascript-crud-front-end-081720) | [Back End](https://github.com/cjbrock/javascript-crud-back-end-081720) |
+| Live Lecture - JavaScript Project Prep and Hogs Walkthrough | [Video](https://youtu.be/fXFVHkPfJlU) | [Hogs Front End](https://github.com/cjbrock/js-hogs-front-end-030220) | [Hogs Back End](https://github.com/cjbrock/js-hogs-back-end-030220) |
 | **Week 14** |  |  |  |
 | Live Lecture - Using Fetch | [Video](https://youtu.be/zW0LmWduKiM) | [Code](https://github.com/cjbrock/javascript-using-fetch-081720) | [Mozilla Fetch Reference](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) |
 | Live Lecture - Building a Rails API | [Video](https://youtu.be/TSjeTzZGQqY) | [Front End](https://github.com/cjbrock/javascript-crud-front-end-081720) | [Back End](https://github.com/cjbrock/javascript-crud-back-end-081720) |
