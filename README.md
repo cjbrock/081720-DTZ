@@ -11,12 +11,14 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 1. [Zoom link for Pods, Study Groups, and 1:1's ](https://flatironschool.zoom.us/j/4369506625?pwd=MkVxUUg0dERvU1NVZDV5MzJBMlNodz09)
 2. [If you would like to book a one on one with Corinna - normal weeks](https://go.oncehub.com/corinna1on1)
 3. [If you would like to book a one on one with Corinna - project week](https://go.oncehub.com/CorinnaProjectWeek11)
-4. [Rails Project Review Scheduling](https://go.oncehub.com/StructuredProgramRailsProjectReviews)
+4. [JavaScript Project Review Scheduling](https://go.oncehub.com/StructuredProgramJavascriptProjectReviews)
+5. [JavaScript Project Building Resources](https://docs.google.com/document/d/1c_f1uuZxKtruQ5li8SrHxKH6pWTywnqCX2zN29pcggI/edit?usp=sharing)
+6. [JavaScript Project Review Resources](https://docs.google.com/document/u/0/d/1ghTvR3skPxTUaIQeNGsgnTkX2IgtMiuQjn498S1P3kw/mobilebasic)
 
 ## Pod Info
 [Rubber Duck Debugging. How it all began.](https://hwrnmnbsol.livejournal.com/148664.html)
 
-### Current Repos for Projects
+<!-- ### Current Repos for Projects
 #### Rails
 - [The Paste Squad - Tuesday 1:30pm](https://github.com/cjbrock/tues-130pm-rails)
 - [Tuesday 2:30pm](https://github.com/cjbrock/tues-230pm-rails)
@@ -31,10 +33,19 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 - [Wednesday 1:00pm](https://github.com/cjbrock/wed-1pm-sinatra)
 - [Wednesday Drinks - Wednesday 3:00pm](https://github.com/cjbrock/wed-3pm-sinatra)
 - [Thursday 9:00am](https://github.com/cjbrock/thurs-9am-sinatra)
-- [Friday 10:00am](https://github.com/cjbrock/fri-10am-sinatra)  
+- [Friday 10:00am](https://github.com/cjbrock/fri-10am-sinatra)   -->
 
 
 # Current Assignments
+
+### Week 16: December 7, 2020
+#### This week's focus: JavaScript and Rails Portfolio Project
+
+1. JavaScript and Rails: Final Projects
+2. Write a Blog Post about the app
+3. Record Your Project Walkthrough (2 min showing what it does)
+4. Share that video with your cohort (optional)
+5. Submit project on Learn by end of day Sunday 12/13/20
 
 ## Week 15: November 30, 2020
 #### This week's focus: JavaScript Object Orientation and Project Prep
