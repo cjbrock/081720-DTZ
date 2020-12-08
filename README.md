@@ -69,6 +69,8 @@ By the end of this week, you should be able to:
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+| **Week 16** |  |  |  |
+| 12/7/20 - JS Project Build - Step 1 - Rails Back End initialization and scaffolding | [Video](https://youtu.be/WRFxdTsWOpY) | [Front End](https://github.com/cjbrock/muppet-show-front-end) | [Back End](https://github.com/cjbrock/muppet-show-back-end) |
 | **Week 15** |  |  |  |
 | Live Lecture - JS CRUD Update | [Video](https://youtu.be/24myPtdU-aw) | [Front End](https://github.com/cjbrock/javascript-crud-front-end-081720) | [Back End](https://github.com/cjbrock/javascript-crud-back-end-081720) |
 | Live Lecture - JS CRUD Delete, Error Handling, and bonus like content | [Video](https://youtu.be/cz2wAZrco44) | [Front End](https://github.com/cjbrock/javascript-crud-front-end-081720) | [Back End](https://github.com/cjbrock/javascript-crud-back-end-081720) |
