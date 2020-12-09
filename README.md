@@ -47,21 +47,6 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 4. Share that video with your cohort (optional)
 5. Submit project on Learn by end of day Sunday 12/13/20
 
-## Week 15: November 30, 2020
-#### This week's focus: JavaScript Object Orientation and Project Prep
-
-By the end of this week, you should be able to:
-- Use ES6 class syntax
-- Create Javascript Models
-- Create Javascript Prototype Functions
-- Have an idea of what to build for your project
-
-1. Monday - JS and Rails - ES6 Syntax Sugar, JS and Rails - Advanced Function Usage (JS Advanced Functions: Generalized Map and Reduce Lab) (9)
-2. Tuesday - JS and Rails - Advanced Function Usage (10)
-3. Wednesday - JS and Rails - Object Orientation in JavaScript (8)
-4. Thursday - JS and Rails - OO JavaScript: Inheritance (6)
-5. Friday - JS and Rails - OO JavaScript: Prototypal Inheritance (8)
-
 
 # Study Group Videos and Code
 
@@ -143,6 +128,21 @@ By the end of this week, you should be able to:
 | Pair Programming Demo + Practice | [Video](https://drive.google.com/file/d/1v1Vmn7kT4tabur7FKHJt0NKFxQiPw7vL/view) | [Pair Programming Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfr63QGhW_NDySBnQ-A-pkpPmAJdoJGHddeFf0C5lCKrrp-Cg/viewform) |  |
 
 # Past Assignments
+
+## Week 15: November 30, 2020
+#### This week's focus: JavaScript Object Orientation and Project Prep
+
+By the end of this week, you should be able to:
+- Use ES6 class syntax
+- Create Javascript Models
+- Create Javascript Prototype Functions
+- Have an idea of what to build for your project
+
+1. Monday - JS and Rails - ES6 Syntax Sugar, JS and Rails - Advanced Function Usage (JS Advanced Functions: Generalized Map and Reduce Lab) (9)
+2. Tuesday - JS and Rails - Advanced Function Usage (10)
+3. Wednesday - JS and Rails - Object Orientation in JavaScript (8)
+4. Thursday - JS and Rails - OO JavaScript: Inheritance (6)
+5. Friday - JS and Rails - OO JavaScript: Prototypal Inheritance (8)
 
 ## Week 14: November 23, 2020
 
