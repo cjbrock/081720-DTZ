@@ -35,17 +35,62 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 - [Thursday 9:00am](https://github.com/cjbrock/thurs-9am-sinatra)
 - [Friday 10:00am](https://github.com/cjbrock/fri-10am-sinatra)   -->
 
+# Upcoming Assignments
+### Week 19: January 4, 2021
+#### This week's focus: Redux
+
+By the end of this week, you should be able to:
+- define a reducer with initial state
+- understand mapStateToProps and its functionality
+- understand mapDispatchToProps 
+- connect a component to a redux store
+- use async actions in redux with thunks
+
+#### Week 19 Daily Assignments:
+1. Monday - Redux - Building Redux (Redux Dispatch With Event Listeners) (6 Lessons)
+2. Tuesday - Redux - Building Redux (Finish), Redux - Redux Library (Map State To Props Lab) (6 Lessons)
+3. Wednesday - Redux - Redux Library (Finish) (4 Lessons)
+4. Thursday - Redux - React Redux Continued (Building Forms Lab) (5 Lessons)
+5. Friday - Redux - React Redux Continued (Finish), Async Redux (5 Lessons)
+
+
+### Week 18: December 21, 2020
+#### This week's focus: React Lifecycle, Async, and Routing
+
+By the end of this week, you should be able to:
+- use the lifecycle functions given by React.Component
+- create asynchronous react components
+- know the difference between presentation components and container components
+- know how to set up react with babel
+- create routing in your react applications
+
+#### Week 18 Daily Assignments:
+1. Monday - React: Lifecycle Methods (Component Mounting Lab - Pancake Flipper) (4 Lessons)
+2. Tuesday - React: Lifecycle Methods (Finish), Async React (5 Lessons)
+3. Wednesday - React: Advanced Components (6 Lessons)
+4. Thursday - React: React: Under the Hood (5 Lessons)
+5. Friday - React: Client Side Routing (4 Lessons)
+
+
 
 # Current Assignments
 
-### Week 16: December 7, 2020
-#### This week's focus: JavaScript and Rails Portfolio Project
+### Week 17: December 14, 2020
+#### This week's focus: Introduction to React
 
-1. JavaScript and Rails: Final Projects
-2. Write a Blog Post about the app
-3. Record Your Project Walkthrough (2 min showing what it does)
-4. Share that video with your cohort (optional)
-5. Submit project on Learn by end of day Sunday 12/13/20
+By the end of this week, you should be able to:
+
+- create React components
+- understand how data is passed to props and state
+- use props and state in your components
+- use events in your components
+- create forms and submit via an onclick event handler in your form
+
+1. Monday - React - Node Package Manager, Introduction to React (5 Lessons)
+2. Tuesday - React - Introduction to Components (4 Lessons)
+3. Wednesday - React - Props and State (Events Crash Course Lab) (5 Lessons)
+4. Thursday - React - Props and State (Finish), React - Events (Event System Lab) (6 Lessons)
+5. Friday - React - Events (Finish), React - Forms (7 Lessons)
 
 
 # Study Group Videos and Code
@@ -54,6 +99,8 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+| **Week 17** |  |  |  |
+| Live Lecture - Intro to React & Props | [Video](https://youtu.be/-KHZsbcQGuo) | [Code](https://github.com/cjbrock/intro-to-react-081720) | |
 | **Week 16** |  |  |  |
 | 12/7/20 - JS Project Build - Step 1 - Rails Back End initialization and scaffolding | [Video](https://youtu.be/WRFxdTsWOpY) | [Front End](https://github.com/cjbrock/muppet-show-front-end) | [Back End](https://github.com/cjbrock/muppet-show-back-end) |
 | 12/8/20 - JS Project Build - Step 2 - Rails Back End seed data | [Video](https://youtu.be/fylz6ELMDZM) | [Front End](https://github.com/cjbrock/muppet-show-front-end) | [Back End](https://github.com/cjbrock/muppet-show-back-end) |
@@ -130,7 +177,16 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 
 # Past Assignments
 
-## Week 15: November 30, 2020
+### Week 16: December 7, 2020
+#### This week's focus: JavaScript and Rails Portfolio Project
+
+1. JavaScript and Rails: Final Projects
+2. Write a Blog Post about the app
+3. Record Your Project Walkthrough (2 min showing what it does)
+4. Share that video with your cohort (optional)
+5. Submit project on Learn by end of day Sunday 12/13/20
+
+### Week 15: November 30, 2020
 #### This week's focus: JavaScript Object Orientation and Project Prep
 
 By the end of this week, you should be able to:
@@ -145,7 +201,7 @@ By the end of this week, you should be able to:
 4. Thursday - JS and Rails - OO JavaScript: Inheritance (6)
 5. Friday - JS and Rails - OO JavaScript: Prototypal Inheritance (8)
 
-## Week 14: November 23, 2020
+### Week 14: November 23, 2020
 
 #### This week's focus: Rails Api, Fetching Data, Conditionals, Datatypes
 
@@ -161,7 +217,7 @@ By the end of this week, you should be able to:
 4. Thursday - JS and Rails - Rails as an API (Finish), JS and Rails - Formalizing JS: Data Types, Comparisons, Conditionals (JS Fundamentals: Arithmetic Lab) (7 Lessons)
 5. Friday - JS and Rails - Formalizing JS: Data Types, Comparisons, Conditionals (Finish) (7 Lessons)
 
-## Week 13: November 16, 2020
+### Week 13: November 16, 2020
 
 #### This week's focus: Procedural Javascript & Basic Manipulation of DOM
 
