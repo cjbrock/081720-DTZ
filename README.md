@@ -35,7 +35,7 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 - [Thursday 9:00am](https://github.com/cjbrock/thurs-9am-sinatra)
 - [Friday 10:00am](https://github.com/cjbrock/fri-10am-sinatra)   -->
 
-# Upcoming Assignments
+# Current Assignments
 ### Week 19: January 4, 2021
 #### This week's focus: Redux
 
@@ -54,53 +54,26 @@ By the end of this week, you should be able to:
 5. Friday - Redux - React Redux Continued (Finish), Async Redux (5 Lessons)
 
 
-### Week 18: December 21, 2020
-#### This week's focus: React Lifecycle, Async, and Routing
-
-By the end of this week, you should be able to:
-- use the lifecycle functions given by React.Component
-- create asynchronous react components
-- know the difference between presentation components and container components
-- know how to set up react with babel
-- create routing in your react applications
-
-#### Week 18 Daily Assignments:
-1. Monday - React: Lifecycle Methods (Component Mounting Lab - Pancake Flipper) (4 Lessons)
-2. Tuesday - React: Lifecycle Methods (Finish), Async React (5 Lessons)
-3. Wednesday - React: Advanced Components (6 Lessons)
-4. Thursday - React: React: Under the Hood (5 Lessons)
-5. Friday - React: Client Side Routing (4 Lessons)
-
-
-
-# Current Assignments
-
-### Week 17: December 14, 2020
-#### This week's focus: Introduction to React
-
-By the end of this week, you should be able to:
-
-- create React components
-- understand how data is passed to props and state
-- use props and state in your components
-- use events in your components
-- create forms and submit via an onclick event handler in your form
-
-1. Monday - React - Node Package Manager, Introduction to React (5 Lessons)
-2. Tuesday - React - Introduction to Components (4 Lessons)
-3. Wednesday - React - Props and State (Events Crash Course Lab) (5 Lessons)
-4. Thursday - React - Props and State (Finish), React - Events (Event System Lab) (6 Lessons)
-5. Friday - React - Events (Finish), React - Forms (7 Lessons)
-
-
 # Study Group Videos and Code
 
 [Additional Video Resources](https://instruction.learn.co/)
 
 | Topic         | Video         | Code/Other | Repl/other resources|
 | ------------- |:-------------:| ----------- | ------------------- |
+| **Week 19** |  |  |  |
+| Live Lecture - Intro to Redux | [Video](https://youtu.be/fmLrFbsklFk) | [Code](https://github.com/cjbrock/intro-to-redux-081720) | |
+| Live Lecture - Digging Deeper into Redux | [Video](https://youtu.be/s7NiKuZLjSM) | [Code](https://github.com/cjbrock/digging-deeper-into-redux-081720) | |
+| Live Lecture - Async Redux | [Video](https://youtu.be/fEiegBjLWWI) | [Code](https://github.com/cjbrock/async-redux-081720) | |
+| Live Lecture - Async Redux Part 2 and React Project Prep | | | |
+| **Week 18** |  |  |  |
+| Live Lecture - Lifecycle Methods and Async React | [Video](https://www.youtube.com/watch?v=YlT_FI4nQLY&feature=youtu.be) | [Code](https://github.com/Awilmerding1/react-todos/tree/lifecycle-and-async) | [Slides](https://docs.google.com/presentation/d/1KmI5Oyc2WFGKiW_9LO6zrWz-Q_SC7gNlm9xu37rSCxk/edit?usp=sharing)|
+| Live Lecture - React Types of Components | [Video](https://www.youtube.com/watch?v=bPaAsJa2xMg&feature=youtu.be) | [Code](https://github.com/Awilmerding1/react-todos/tree/types-of-components) | [Slides](https://docs.google.com/presentation/d/1yK1n_CDDyDmQzWMMGPfsTi5EsaOoypH-KcJZCPwaClI/edit?usp=sharing)|
+| Live Lecture - React Hooks Mini Lecture | [Video](https://www.youtube.com/watch?v=qD42RHcyRNY&feature=youtu.be) |  |  |
+| Live Lecture - Client Side Routing | [Video](https://www.youtube.com/watch?v=7xHAe5Qw5U8&feature=youtu.be) | [Code](https://github.com/Awilmerding1/react-todos/tree/react-routing) | [Slides](https://docs.google.com/presentation/d/1eVBZMQ_B-ZUqwRXJzGdGR6yNYFSdScJ-M58gua6II2Q/edit?usp=sharing)|
 | **Week 17** |  |  |  |
 | Live Lecture - Intro to React & Props | [Video](https://youtu.be/-KHZsbcQGuo) | [Code](https://github.com/cjbrock/intro-to-react-081720) | |
+| Live Lecture - React State and Events | [Video](https://www.youtube.com/watch?v=dNsD5DHJbxY&feature=youtu.be) | [Code](https://github.com/Awilmerding1/react-todos/tree/react-props-and-state) | [Slides](https://docs.google.com/presentation/d/1PJCzkISuR1ImWpirkbOtt-iKrKoaOKN5h2OYz6pCR9A/edit?usp=sharing)|
+| Live Lecture - React Events and Forms | [Video](https://www.youtube.com/watch?v=Zn5IYGSNM_o&feature=youtu.be) | [Code](https://github.com/Awilmerding1/react-todos/tree/react-events-and-forms) | [Slides](https://docs.google.com/presentation/d/1SBn-L5c17m1XWPXuJ1JmWPYV8b0RXlksZXShedxfme4/edit?usp=sharing)|
 | **Week 16** |  |  |  |
 | 12/7/20 - JS Project Build - Step 1 - Rails Back End initialization and scaffolding | [Video](https://youtu.be/WRFxdTsWOpY) | [Front End](https://github.com/cjbrock/muppet-show-front-end) | [Back End](https://github.com/cjbrock/muppet-show-back-end) |
 | 12/8/20 - JS Project Build - Step 2 - Rails Back End seed data | [Video](https://youtu.be/fylz6ELMDZM) | [Front End](https://github.com/cjbrock/muppet-show-front-end) | [Back End](https://github.com/cjbrock/muppet-show-back-end) |
@@ -176,6 +149,39 @@ By the end of this week, you should be able to:
 | Pair Programming Demo + Practice | [Video](https://drive.google.com/file/d/1v1Vmn7kT4tabur7FKHJt0NKFxQiPw7vL/view) | [Pair Programming Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfr63QGhW_NDySBnQ-A-pkpPmAJdoJGHddeFf0C5lCKrrp-Cg/viewform) |  |
 
 # Past Assignments
+### Week 18: December 21, 2020
+#### This week's focus: React Lifecycle, Async, and Routing
+
+By the end of this week, you should be able to:
+- use the lifecycle functions given by React.Component
+- create asynchronous react components
+- know the difference between presentation components and container components
+- know how to set up react with babel
+- create routing in your react applications
+
+#### Week 18 Daily Assignments:
+1. Monday - React: Lifecycle Methods (Component Mounting Lab - Pancake Flipper) (4 Lessons)
+2. Tuesday - React: Lifecycle Methods (Finish), Async React (5 Lessons)
+3. Wednesday - React: Advanced Components (6 Lessons)
+4. Thursday - React: React: Under the Hood (5 Lessons)
+5. Friday - React: Client Side Routing (4 Lessons)
+
+### Week 17: December 14, 2020
+#### This week's focus: Introduction to React
+
+By the end of this week, you should be able to:
+
+- create React components
+- understand how data is passed to props and state
+- use props and state in your components
+- use events in your components
+- create forms and submit via an onclick event handler in your form
+
+1. Monday - React - Node Package Manager, Introduction to React (5 Lessons)
+2. Tuesday - React - Introduction to Components (4 Lessons)
+3. Wednesday - React - Props and State (Events Crash Course Lab) (5 Lessons)
+4. Thursday - React - Props and State (Finish), React - Events (Event System Lab) (6 Lessons)
+5. Friday - React - Events (Finish), React - Forms (7 Lessons)
 
 ### Week 16: December 7, 2020
 #### This week's focus: JavaScript and Rails Portfolio Project
