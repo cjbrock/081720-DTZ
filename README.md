@@ -64,7 +64,7 @@ By the end of this week, you should be able to:
 | Live Lecture - Intro to Redux | [Video](https://youtu.be/fmLrFbsklFk) | [Code](https://github.com/cjbrock/intro-to-redux-081720) | |
 | Live Lecture - Digging Deeper into Redux | [Video](https://youtu.be/s7NiKuZLjSM) | [Code](https://github.com/cjbrock/digging-deeper-into-redux-081720) | |
 | Live Lecture - Async Redux | [Video](https://youtu.be/fEiegBjLWWI) | [Code](https://github.com/cjbrock/async-redux-081720) | |
-| Live Lecture - Async Redux Part 2 and React Project Prep | | | |
+| Live Lecture - Async Redux Part 2 and React Project Prep | [Video](https://youtu.be/Ev8jT4SSzlc) | [Front End](https://github.com/cjbrock/async-redux-2-front-end-081720)| [Back End](https://github.com/cjbrock/async-redux-2-back-end-081720)|
 | **Week 18** |  |  |  |
 | Live Lecture - Lifecycle Methods and Async React | [Video](https://www.youtube.com/watch?v=YlT_FI4nQLY&feature=youtu.be) | [Code](https://github.com/Awilmerding1/react-todos/tree/lifecycle-and-async) | [Slides](https://docs.google.com/presentation/d/1KmI5Oyc2WFGKiW_9LO6zrWz-Q_SC7gNlm9xu37rSCxk/edit?usp=sharing)|
 | Live Lecture - React Types of Components | [Video](https://www.youtube.com/watch?v=bPaAsJa2xMg&feature=youtu.be) | [Code](https://github.com/Awilmerding1/react-todos/tree/types-of-components) | [Slides](https://docs.google.com/presentation/d/1yK1n_CDDyDmQzWMMGPfsTi5EsaOoypH-KcJZCPwaClI/edit?usp=sharing)|
