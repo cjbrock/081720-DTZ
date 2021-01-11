@@ -3,17 +3,19 @@
 ## Your Cohort Lead: 
 Corinna Brock Moore - corinna@flatironschool.com
 
-## Your Educational Coach: 
-Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https://andrewdellarocca.youcanbook.me/)
+<!-- ## Your Educational Coach: 
+Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https://andrewdellarocca.youcanbook.me/) -->
 
 ## Helpful Links 
 
 1. [Zoom link for Pods, Study Groups, and 1:1's ](https://flatironschool.zoom.us/j/4369506625?pwd=MkVxUUg0dERvU1NVZDV5MzJBMlNodz09)
-2. [If you would like to book a one on one with Corinna - normal weeks](https://go.oncehub.com/corinna1on1)
-3. [If you would like to book a one on one with Corinna - project week](https://go.oncehub.com/CorinnaProjectWeek11)
-4. [JavaScript Project Review Scheduling](https://go.oncehub.com/StructuredProgramJavascriptProjectReviews)
-5. [JavaScript Project Building Resources](https://docs.google.com/document/d/1c_f1uuZxKtruQ5li8SrHxKH6pWTywnqCX2zN29pcggI/edit?usp=sharing)
-6. [JavaScript Project Review Resources](https://docs.google.com/document/u/0/d/1ghTvR3skPxTUaIQeNGsgnTkX2IgtMiuQjn498S1P3kw/mobilebasic)
+2. [Cohort watercooler zoom](https://flatironschool.zoom.us/j/92935761243?pwd=WXkxS0x4UzdMMTY0Q2pIcVdZN3dRQT09)
+3. [If you would like to book a one on one with Corinna - normal weeks](https://go.oncehub.com/corinna1on1)
+4. [If you would like to book a one on one with Corinna - project week](https://go.oncehub.com/CorinnaProjectWeek11)
+5. [React/Redux Project Review Scheduling](https://go.oncehub.com/StructuredProgramFinalProjectReviews)
+6. [React/Redux Project Building Resources](https://docs.google.com/document/d/1X1o9YwJwtNsekeqNhoXvp0teJjbO9DINxnHJGwin0ak/edit?usp=sharing)
+<!-- Project question resources here, if existing -->
+7. [Big A** List of Coding Knowledge](https://docs.google.com/spreadsheets/d/1gTP81NGz2P7lTcXwjCSLRBLqjg0_lJ-Ke3X3xkudvAI/edit#gid=708485659)
 
 ## Pod Info
 [Rubber Duck Debugging. How it all began.](https://hwrnmnbsol.livejournal.com/148664.html)
@@ -36,22 +38,14 @@ Andrew Della Rocca - andrew.dellarocca@flatironschool.com - [Booking Link](https
 - [Friday 10:00am](https://github.com/cjbrock/fri-10am-sinatra)   -->
 
 # Current Assignments
-### Week 19: January 4, 2021
-#### This week's focus: Redux
+### Week 20: January 11, 2021
+#### This week's focus: JavaScript and Rails Portfolio Project
 
-By the end of this week, you should be able to:
-- define a reducer with initial state
-- understand mapStateToProps and its functionality
-- understand mapDispatchToProps 
-- connect a component to a redux store
-- use async actions in redux with thunks
-
-#### Week 19 Daily Assignments:
-1. Monday - Redux - Building Redux (Redux Dispatch With Event Listeners) (6 Lessons)
-2. Tuesday - Redux - Building Redux (Finish), Redux - Redux Library (Map State To Props Lab) (6 Lessons)
-3. Wednesday - Redux - Redux Library (Finish) (4 Lessons)
-4. Thursday - Redux - React Redux Continued (Building Forms Lab) (5 Lessons)
-5. Friday - Redux - React Redux Continued (Finish), Async Redux (5 Lessons)
+1. React and Redux: Final Projects
+2. Write a Blog Post about the app
+3. Record Your Project Walkthrough (2 min showing what it does)
+4. Share that video with your cohort (optional)
+5. Submit project on Learn by end of day Sunday 1/17/21
 
 
 # Study Group Videos and Code
@@ -149,6 +143,23 @@ By the end of this week, you should be able to:
 | Pair Programming Demo + Practice | [Video](https://drive.google.com/file/d/1v1Vmn7kT4tabur7FKHJt0NKFxQiPw7vL/view) | [Pair Programming Quiz](https://docs.google.com/forms/d/e/1FAIpQLSfr63QGhW_NDySBnQ-A-pkpPmAJdoJGHddeFf0C5lCKrrp-Cg/viewform) |  |
 
 # Past Assignments
+### Week 19: January 4, 2021
+#### This week's focus: Redux
+
+By the end of this week, you should be able to:
+- define a reducer with initial state
+- understand mapStateToProps and its functionality
+- understand mapDispatchToProps 
+- connect a component to a redux store
+- use async actions in redux with thunks
+
+#### Week 19 Daily Assignments:
+1. Monday - Redux - Building Redux (Redux Dispatch With Event Listeners) (6 Lessons)
+2. Tuesday - Redux - Building Redux (Finish), Redux - Redux Library (Map State To Props Lab) (6 Lessons)
+3. Wednesday - Redux - Redux Library (Finish) (4 Lessons)
+4. Thursday - Redux - React Redux Continued (Building Forms Lab) (5 Lessons)
+5. Friday - Redux - React Redux Continued (Finish), Async Redux (5 Lessons)
+
 ### Week 18: December 21, 2020
 #### This week's focus: React Lifecycle, Async, and Routing
 
